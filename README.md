@@ -14,5 +14,5 @@ Más información sobre el ramo en su repositorio: <https://github.com/raxlab/im
 |        5       |     Ayudantía |               |               |               |               |
 |         6      |               |               |               |               |               |
 
-## Actividades ya terminadas
+## 📚 Actividades ya terminadas
 - [x] Actividad 01
