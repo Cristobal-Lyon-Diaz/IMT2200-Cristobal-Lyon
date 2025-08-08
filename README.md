@@ -20,5 +20,5 @@ Más información sobre el ramo en su repositorio: <https://github.com/raxlab/im
 ## Información personal
 El dueño de este repositorio es un estudiante de LICD llamado Cristóbal Lyon Díaz.
 ### Contacto
-Mail: <cristobal.lyon@estudiante.uc.cl>
+Mail: <cristobal.lyon@estudiante.uc.cl>  
 Canvas: <https://cursos.canvas.uc.cl/courses/92498/users/170496>
