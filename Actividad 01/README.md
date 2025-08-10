@@ -9,4 +9,10 @@ Dentro de ella se encontrará con:
 - Este *README.md*
 
 ## IMT2200 - Actividad 01
-En este notebook Jupyter se encuentran las intrucciones y desarrollo de la actividad 
+En este notebook Jupyter se encuentran las intrucciones y desarrollo de la actividad, la cual se divide en 5 pasos:
+1. Objetivos de la Actividad
+    - Prueba
+2. Módulos de Python
+3. Ejercicio: Inspección de Datos del Censo 2017
+4. Creación de un Mapa con información del Censo
+5. Cierre de la Actividad 01: Repositorio presonal
