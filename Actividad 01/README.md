@@ -7,3 +7,6 @@ Dentro de ella se encontrará con:
 - El notebook Jupyter *IMT2200 - Actividad 01.ipynb*
 - Imagen de la población de la RM *PoblacionRM_C2017_Cristóbal_Lyon_Díaz.jpg*
 - Este *README.md*
+
+## IMT2200 - Actividad 01
+En este notebook Jupyter se encuentran las intrucciones y desarrollo de la actividad 
