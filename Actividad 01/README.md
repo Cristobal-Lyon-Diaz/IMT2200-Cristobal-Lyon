@@ -20,3 +20,8 @@ En este notebook Jupyter se encuentran las intrucciones y desarrollo de la activ
     - Se elabora un mapa de la RM con los datos y con el nombre del estudiante
 5. Cierre de la Actividad 01: Repositorio presonal
     - Indica la manera correcta de la entrega
+
+### Extra
+* Descripción de la Actividad extenso además de la descripción del repositorio (IMT2200-Cristobal-Lyon/Actividad 01)
+* Cambie el minimo y máximo de las comunas para que se viera con mayor claridad las cuadras de las comunas, especialmente diferenciar aquellas que estan más pobladas, ya que con los parametros originales habia muchas comunas en el tono máximo del color seleccionado
+* Elaboración de un README detallado sobre el ramo y demás en el repositorio general del ramo (IMT2200-Cristobal-Lyon)
