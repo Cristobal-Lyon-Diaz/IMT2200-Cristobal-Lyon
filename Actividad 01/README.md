@@ -11,8 +11,12 @@ Dentro de ella se encontrará con:
 ## IMT2200 - Actividad 01
 En este notebook Jupyter se encuentran las intrucciones y desarrollo de la actividad, la cual se divide en 5 pasos:
 1. Objetivos de la Actividad
-    - Prueba
+    - Se describe la actividad
 2. Módulos de Python
+    - Indica los modulos que se usaran
 3. Ejercicio: Inspección de Datos del Censo 2017
+    - Analiza alguno de los datos
 4. Creación de un Mapa con información del Censo
+    - Se elabora un mapa de la RM con los datos y con el nombre del estudiante
 5. Cierre de la Actividad 01: Repositorio presonal
+    - Indica la manera correcta de la entrega
