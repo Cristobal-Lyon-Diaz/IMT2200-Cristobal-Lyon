@@ -1,0 +1,1899 @@
+Ocurrió un error inesperado para la estación Mataveri  Isla de Pascua Ap.: 'NoneType' object has no attribute 'items'
+Falta la clave 'datosHistoricos' en los datos para la estación Sta. Bárbara Ad. (pista de emergencia)
+Falta la clave 'datosHistoricos' en los datos para la estación Ad. Las Marías, Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Cavancha Ap.
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Los Condores Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó, Chamonate Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Vallenar, Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación La Calera,  D.O.S
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Vaitea, Isla de Pascua
+Falta la clave 'datosHistoricos' en los datos para la estación El Parral
+Falta la clave 'datosHistoricos' en los datos para la estación Los Nichos Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Oscuro
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia Salamanca
+Falta la clave 'datosHistoricos' en los datos para la estación Huaquén hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Trapiche Longotoma
+Falta la clave 'datosHistoricos' en los datos para la estación Casas de Alicahue
+Falta la clave 'datosHistoricos' en los datos para la estación La Vega fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Catapilco hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El  Cobre, fundo Sta. María Pullally
+Falta la clave 'datosHistoricos' en los datos para la estación Quilpué Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Marga Marga
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Navidad
+Falta la clave 'datosHistoricos' en los datos para la estación Chacra Soloa
+Falta la clave 'datosHistoricos' en los datos para la estación Tranque Lepe
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo Rangue
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Marchigue
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Rengo Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Lihueumo Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San Diego de Puquillay
+Falta la clave 'datosHistoricos' en los datos para la estación Pumanque
+Falta la clave 'datosHistoricos' en los datos para la estación Las Arañas
+Falta la clave 'datosHistoricos' en los datos para la estación Iloca Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Licantén Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Nancagua 
+Falta la clave 'datosHistoricos' en los datos para la estación Lolol Hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando Ex Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Curepto Essam
+Falta la clave 'datosHistoricos' en los datos para la estación San Javier Particular
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Longaví
+Falta la clave 'datosHistoricos' en los datos para la estación Cauquenes Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse Bullilleo
+Falta la clave 'datosHistoricos' en los datos para la estación Nonguén  Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Caracol
+Falta la clave 'datosHistoricos' en los datos para la estación Chiguayante Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cabrero Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Bárbara Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambillo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Mulchén Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación La Araucanía Angol
+Falta la clave 'datosHistoricos' en los datos para la estación Panguipulli, Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Granja Vista Hermosa
+Falta la clave 'datosHistoricos' en los datos para la estación Reumen
+Falta la clave 'datosHistoricos' en los datos para la estación Carahue Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Nueva Imperial Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Curacautín Essar
+Falta la clave 'datosHistoricos' en los datos para la estación La Torcaza  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Flor del Lago
+Falta la clave 'datosHistoricos' en los datos para la estación Purulón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación San José de la Mariquina
+Falta la clave 'datosHistoricos' en los datos para la estación Curaco en la Balsa
+Falta la clave 'datosHistoricos' en los datos para la estación Quilentué Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Río Bueno
+Falta la clave 'datosHistoricos' en los datos para la estación San Pablo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Puyuhuapi
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Chuchiñi
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Curimón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Central Queltehues
+Falta la clave 'datosHistoricos' en los datos para la estación Central Los Morros
+Falta la clave 'datosHistoricos' en los datos para la estación Machalí
+Falta la clave 'datosHistoricos' en los datos para la estación Digua Embalse
+Falta la clave 'datosHistoricos' en los datos para la estación San Ignacio de Palomares
+Falta la clave 'datosHistoricos' en los datos para la estación Pinto Municipalidad
+Falta la clave 'datosHistoricos' en los datos para la estación Lebu Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Los Sauces Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Cardenal Samoré  (estación referencial)
+Falta la clave 'datosHistoricos' en los datos para la estación Galvarino Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Entre Lagos
+Falta la clave 'datosHistoricos' en los datos para la estación Frutillar Centro Forestal
+Falta la clave 'datosHistoricos' en los datos para la estación Rivadavia
+Falta la clave 'datosHistoricos' en los datos para la estación Reserva Nacional Fray Jorge
+Falta la clave 'datosHistoricos' en los datos para la estación Las Chinchillas
+Falta la clave 'datosHistoricos' en los datos para la estación Longotoma Liceo Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Catemu
+Falta la clave 'datosHistoricos' en los datos para la estación Polpaico
+Falta la clave 'datosHistoricos' en los datos para la estación Colina
+Falta la clave 'datosHistoricos' en los datos para la estación Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Llico, Reserva Laguna Torca
+Falta la clave 'datosHistoricos' en los datos para la estación Hidango
+Falta la clave 'datosHistoricos' en los datos para la estación La Rosa 
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe
+Falta la clave 'datosHistoricos' en los datos para la estación Paredones
+Falta la clave 'datosHistoricos' en los datos para la estación Tanumé
+Falta la clave 'datosHistoricos' en los datos para la estación Colchagua
+Falta la clave 'datosHistoricos' en los datos para la estación Vilches
+Falta la clave 'datosHistoricos' en los datos para la estación Chanco (Reserva Federico Albert)
+Falta la clave 'datosHistoricos' en los datos para la estación Maqui 1
+Falta la clave 'datosHistoricos' en los datos para la estación Monseñor Fagnano Punta Arenas
+Falta la clave 'datosHistoricos' en los datos para la estación Tacora retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chapiquiña retén
+Falta la clave 'datosHistoricos' en los datos para la estación Guallatire retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chilcaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Codpa retén
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua  retén (Pueblo)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua retén (Aduana)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Juntas del  Toro  tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui  retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Tórtolas retén
+Falta la clave 'datosHistoricos' en los datos para la estación Hurtado retén
+Falta la clave 'datosHistoricos' en los datos para la estación Tulahuén retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coirón retén
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela retén
+Falta la clave 'datosHistoricos' en los datos para la estación Villucura retén
+Falta la clave 'datosHistoricos' en los datos para la estación Achao Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Alcerreca retén
+Falta la clave 'datosHistoricos' en los datos para la estación Caquena retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chucuyo retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Salvador comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llanta control (retén)
+Falta la clave 'datosHistoricos' en los datos para la estación Inca de Oro retén
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó particular
+Falta la clave 'datosHistoricos' en los datos para la estación Los Loros retén
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Huasco Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación El Tránsito escuela
+Falta la clave 'datosHistoricos' en los datos para la estación San Félix fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Pino
+Falta la clave 'datosHistoricos' en los datos para la estación Andacollo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pachingo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Molle retén 
+Falta la clave 'datosHistoricos' en los datos para la estación Cerrillos de Tamaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Illapel Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Caimanes fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Las Vacas fundo 
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama, escuela
+Falta la clave 'datosHistoricos' en los datos para la estación El Ingenio fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puchuncaví hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Batuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Farellones Ski club 
+Falta la clave 'datosHistoricos' en los datos para la estación Planta San Ramón
+Falta la clave 'datosHistoricos' en los datos para la estación Barahona
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Isabel de Querelema
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando club aéreo
+Falta la clave 'datosHistoricos' en los datos para la estación Piuchén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Cerrillos ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Puquios retén
+Falta la clave 'datosHistoricos' en los datos para la estación Putre tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Chungará retén
+Falta la clave 'datosHistoricos' en los datos para la estación Parinacota
+Falta la clave 'datosHistoricos' en los datos para la estación Pisagua tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pica
+Falta la clave 'datosHistoricos' en los datos para la estación Ascotán FFCC
+Falta la clave 'datosHistoricos' en los datos para la estación El Tuqui, Ovalle Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chañaral  Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación El Tatio
+Falta la clave 'datosHistoricos' en los datos para la estación La Huayca, Pozo Almonte
+Falta la clave 'datosHistoricos' en los datos para la estación Potrerillos
+Falta la clave 'datosHistoricos' en los datos para la estación Freirina tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Conay retén
+Falta la clave 'datosHistoricos' en los datos para la estación San felix retén
+Falta la clave 'datosHistoricos' en los datos para la estación Huanta retén
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles de Bocatoma
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse la Paloma
+Falta la clave 'datosHistoricos' en los datos para la estación Los Peñones Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Carén
+Falta la clave 'datosHistoricos' en los datos para la estación San Lorenzo retén (Chañaral Alto)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Monte Patria subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pichasca
+Falta la clave 'datosHistoricos' en los datos para la estación Vicuña comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Salamanca C.C.T.
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Las Palmas de Mincha, fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen  de Totoralillo
+Falta la clave 'datosHistoricos' en los datos para la estación Quilimarí
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molinos  Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación Papudo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada de Silva retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe ejército
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe particular
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Quintero, Estación Aeronáutica
+Falta la clave 'datosHistoricos' en los datos para la estación Los Andes  comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llay Llay  Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Calle Larga tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada retén
+Falta la clave 'datosHistoricos' en los datos para la estación Saladillo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Radio Faro El Tabón
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo  San Felipe ( Tocornal )
+Falta la clave 'datosHistoricos' en los datos para la estación Zapallar retén
+Falta la clave 'datosHistoricos' en los datos para la estación Cuesta Chacabuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca
+Falta la clave 'datosHistoricos' en los datos para la estación Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación La Petorquina
+Falta la clave 'datosHistoricos' en los datos para la estación Central Maitenes retén
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Aguirre
+Falta la clave 'datosHistoricos' en los datos para la estación Curacaví tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Huinganal fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Dorado
+Falta la clave 'datosHistoricos' en los datos para la estación Los Rulos  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Valle Hermoso fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peldehue regimiento
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Curahumilla
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Alemana
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua
+Falta la clave 'datosHistoricos' en los datos para la estación Valdivia, Radio Est. FACH.
+Falta la clave 'datosHistoricos' en los datos para la estación Central Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Limache Esval
+Falta la clave 'datosHistoricos' en los datos para la estación San Gabriel retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Majadas fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Huallilemu fundo
+Falta la clave 'datosHistoricos' en los datos para la estación La Obra del Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Quebrada del Lunes
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Paulina
+Falta la clave 'datosHistoricos' en los datos para la estación Llo-Lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Valdes
+Falta la clave 'datosHistoricos' en los datos para la estación Los Almendros, La Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Alba
+Falta la clave 'datosHistoricos' en los datos para la estación Ancud Pupelde Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chamiza Puerto Montt Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Peñaflor subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación San Bernardo (Sr. Caviedes)
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia de Paine
+Falta la clave 'datosHistoricos' en los datos para la estación San Juan de Llo-lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Chada hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Longovilo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Paine
+Falta la clave 'datosHistoricos' en los datos para la estación Guayacán
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca (Fundo Nuevo Mundo)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Cachapoal
+Falta la clave 'datosHistoricos' en los datos para la estación Central Pangal (Casa de Fuerza)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Pangal
+Falta la clave 'datosHistoricos' en los datos para la estación La Estrella retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coya
+Falta la clave 'datosHistoricos' en los datos para la estación Nido de Aguilas
+Falta la clave 'datosHistoricos' en los datos para la estación Los Robles
+Falta la clave 'datosHistoricos' en los datos para la estación Totihue
+Falta la clave 'datosHistoricos' en los datos para la estación Morro Chico retén
+Falta la clave 'datosHistoricos' en los datos para la estación Río Verde escuela G-33
+Ocurrió un error inesperado para la estación Mataveri  Isla de Pascua Ap.: 'NoneType' object has no attribute 'items'
+Falta la clave 'datosHistoricos' en los datos para la estación Sta. Bárbara Ad. (pista de emergencia)
+Falta la clave 'datosHistoricos' en los datos para la estación Ad. Las Marías, Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Cavancha Ap.
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Los Condores Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó, Chamonate Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Vallenar, Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación La Calera,  D.O.S
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Vaitea, Isla de Pascua
+Falta la clave 'datosHistoricos' en los datos para la estación El Parral
+Falta la clave 'datosHistoricos' en los datos para la estación Los Nichos Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Oscuro
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia Salamanca
+Falta la clave 'datosHistoricos' en los datos para la estación Huaquén hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Trapiche Longotoma
+Falta la clave 'datosHistoricos' en los datos para la estación Casas de Alicahue
+Falta la clave 'datosHistoricos' en los datos para la estación La Vega fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Catapilco hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El  Cobre, fundo Sta. María Pullally
+Falta la clave 'datosHistoricos' en los datos para la estación Quilpué Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Marga Marga
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Navidad
+Falta la clave 'datosHistoricos' en los datos para la estación Chacra Soloa
+Falta la clave 'datosHistoricos' en los datos para la estación Tranque Lepe
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo Rangue
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Marchigue
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Rengo Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Lihueumo Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San Diego de Puquillay
+Falta la clave 'datosHistoricos' en los datos para la estación Pumanque
+Falta la clave 'datosHistoricos' en los datos para la estación Las Arañas
+Falta la clave 'datosHistoricos' en los datos para la estación Iloca Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Licantén Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Nancagua 
+Falta la clave 'datosHistoricos' en los datos para la estación Lolol Hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando Ex Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Curepto Essam
+Falta la clave 'datosHistoricos' en los datos para la estación San Javier Particular
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Longaví
+Falta la clave 'datosHistoricos' en los datos para la estación Cauquenes Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse Bullilleo
+Falta la clave 'datosHistoricos' en los datos para la estación Nonguén  Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Caracol
+Falta la clave 'datosHistoricos' en los datos para la estación Chiguayante Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cabrero Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Bárbara Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambillo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Mulchén Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación La Araucanía Angol
+Falta la clave 'datosHistoricos' en los datos para la estación Panguipulli, Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Granja Vista Hermosa
+Falta la clave 'datosHistoricos' en los datos para la estación Reumen
+Falta la clave 'datosHistoricos' en los datos para la estación Carahue Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Nueva Imperial Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Curacautín Essar
+Falta la clave 'datosHistoricos' en los datos para la estación La Torcaza  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Flor del Lago
+Falta la clave 'datosHistoricos' en los datos para la estación Purulón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación San José de la Mariquina
+Falta la clave 'datosHistoricos' en los datos para la estación Curaco en la Balsa
+Falta la clave 'datosHistoricos' en los datos para la estación Quilentué Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Río Bueno
+Falta la clave 'datosHistoricos' en los datos para la estación San Pablo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Puyuhuapi
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Chuchiñi
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Curimón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Central Queltehues
+Falta la clave 'datosHistoricos' en los datos para la estación Central Los Morros
+Falta la clave 'datosHistoricos' en los datos para la estación Machalí
+Falta la clave 'datosHistoricos' en los datos para la estación Digua Embalse
+Falta la clave 'datosHistoricos' en los datos para la estación San Ignacio de Palomares
+Falta la clave 'datosHistoricos' en los datos para la estación Pinto Municipalidad
+Falta la clave 'datosHistoricos' en los datos para la estación Lebu Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Los Sauces Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Cardenal Samoré  (estación referencial)
+Falta la clave 'datosHistoricos' en los datos para la estación Galvarino Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Entre Lagos
+Falta la clave 'datosHistoricos' en los datos para la estación Frutillar Centro Forestal
+Falta la clave 'datosHistoricos' en los datos para la estación Rivadavia
+Falta la clave 'datosHistoricos' en los datos para la estación Reserva Nacional Fray Jorge
+Falta la clave 'datosHistoricos' en los datos para la estación Las Chinchillas
+Falta la clave 'datosHistoricos' en los datos para la estación Longotoma Liceo Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Catemu
+Falta la clave 'datosHistoricos' en los datos para la estación Polpaico
+Falta la clave 'datosHistoricos' en los datos para la estación Colina
+Falta la clave 'datosHistoricos' en los datos para la estación Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Llico, Reserva Laguna Torca
+Falta la clave 'datosHistoricos' en los datos para la estación Hidango
+Falta la clave 'datosHistoricos' en los datos para la estación La Rosa 
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe
+Falta la clave 'datosHistoricos' en los datos para la estación Paredones
+Falta la clave 'datosHistoricos' en los datos para la estación Tanumé
+Falta la clave 'datosHistoricos' en los datos para la estación Colchagua
+Falta la clave 'datosHistoricos' en los datos para la estación Vilches
+Falta la clave 'datosHistoricos' en los datos para la estación Chanco (Reserva Federico Albert)
+Falta la clave 'datosHistoricos' en los datos para la estación Maqui 1
+Falta la clave 'datosHistoricos' en los datos para la estación Monseñor Fagnano Punta Arenas
+Falta la clave 'datosHistoricos' en los datos para la estación Tacora retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chapiquiña retén
+Falta la clave 'datosHistoricos' en los datos para la estación Guallatire retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chilcaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Codpa retén
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua  retén (Pueblo)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua retén (Aduana)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Juntas del  Toro  tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui  retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Tórtolas retén
+Falta la clave 'datosHistoricos' en los datos para la estación Hurtado retén
+Falta la clave 'datosHistoricos' en los datos para la estación Tulahuén retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coirón retén
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela retén
+Falta la clave 'datosHistoricos' en los datos para la estación Villucura retén
+Falta la clave 'datosHistoricos' en los datos para la estación Achao Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Alcerreca retén
+Falta la clave 'datosHistoricos' en los datos para la estación Caquena retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chucuyo retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Salvador comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llanta control (retén)
+Falta la clave 'datosHistoricos' en los datos para la estación Inca de Oro retén
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó particular
+Falta la clave 'datosHistoricos' en los datos para la estación Los Loros retén
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Huasco Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación El Tránsito escuela
+Falta la clave 'datosHistoricos' en los datos para la estación San Félix fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Pino
+Falta la clave 'datosHistoricos' en los datos para la estación Andacollo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pachingo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Molle retén 
+Falta la clave 'datosHistoricos' en los datos para la estación Cerrillos de Tamaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Illapel Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Caimanes fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Las Vacas fundo 
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama, escuela
+Falta la clave 'datosHistoricos' en los datos para la estación El Ingenio fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puchuncaví hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Batuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Farellones Ski club 
+Falta la clave 'datosHistoricos' en los datos para la estación Planta San Ramón
+Falta la clave 'datosHistoricos' en los datos para la estación Barahona
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Isabel de Querelema
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando club aéreo
+Falta la clave 'datosHistoricos' en los datos para la estación Piuchén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Cerrillos ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Puquios retén
+Falta la clave 'datosHistoricos' en los datos para la estación Putre tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Chungará retén
+Falta la clave 'datosHistoricos' en los datos para la estación Parinacota
+Falta la clave 'datosHistoricos' en los datos para la estación Pisagua tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pica
+Falta la clave 'datosHistoricos' en los datos para la estación Ascotán FFCC
+Falta la clave 'datosHistoricos' en los datos para la estación El Tuqui, Ovalle Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chañaral  Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación El Tatio
+Falta la clave 'datosHistoricos' en los datos para la estación La Huayca, Pozo Almonte
+Falta la clave 'datosHistoricos' en los datos para la estación Potrerillos
+Falta la clave 'datosHistoricos' en los datos para la estación Freirina tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Conay retén
+Falta la clave 'datosHistoricos' en los datos para la estación San felix retén
+Falta la clave 'datosHistoricos' en los datos para la estación Huanta retén
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles de Bocatoma
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse la Paloma
+Falta la clave 'datosHistoricos' en los datos para la estación Los Peñones Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Carén
+Falta la clave 'datosHistoricos' en los datos para la estación San Lorenzo retén (Chañaral Alto)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Monte Patria subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pichasca
+Falta la clave 'datosHistoricos' en los datos para la estación Vicuña comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Salamanca C.C.T.
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Las Palmas de Mincha, fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen  de Totoralillo
+Falta la clave 'datosHistoricos' en los datos para la estación Quilimarí
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molinos  Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación Papudo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada de Silva retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe ejército
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe particular
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Quintero, Estación Aeronáutica
+Falta la clave 'datosHistoricos' en los datos para la estación Los Andes  comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llay Llay  Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Calle Larga tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada retén
+Falta la clave 'datosHistoricos' en los datos para la estación Saladillo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Radio Faro El Tabón
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo  San Felipe ( Tocornal )
+Falta la clave 'datosHistoricos' en los datos para la estación Zapallar retén
+Falta la clave 'datosHistoricos' en los datos para la estación Cuesta Chacabuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca
+Falta la clave 'datosHistoricos' en los datos para la estación Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación La Petorquina
+Falta la clave 'datosHistoricos' en los datos para la estación Central Maitenes retén
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Aguirre
+Falta la clave 'datosHistoricos' en los datos para la estación Curacaví tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Huinganal fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Dorado
+Falta la clave 'datosHistoricos' en los datos para la estación Los Rulos  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Valle Hermoso fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peldehue regimiento
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Curahumilla
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Alemana
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua
+Falta la clave 'datosHistoricos' en los datos para la estación Valdivia, Radio Est. FACH.
+Falta la clave 'datosHistoricos' en los datos para la estación Central Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Limache Esval
+Falta la clave 'datosHistoricos' en los datos para la estación San Gabriel retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Majadas fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Huallilemu fundo
+Falta la clave 'datosHistoricos' en los datos para la estación La Obra del Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Quebrada del Lunes
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Paulina
+Falta la clave 'datosHistoricos' en los datos para la estación Llo-Lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Valdes
+Falta la clave 'datosHistoricos' en los datos para la estación Los Almendros, La Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Alba
+Falta la clave 'datosHistoricos' en los datos para la estación Ancud Pupelde Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chamiza Puerto Montt Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Peñaflor subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación San Bernardo (Sr. Caviedes)
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia de Paine
+Falta la clave 'datosHistoricos' en los datos para la estación San Juan de Llo-lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Chada hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Longovilo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Paine
+Falta la clave 'datosHistoricos' en los datos para la estación Guayacán
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca (Fundo Nuevo Mundo)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Cachapoal
+Falta la clave 'datosHistoricos' en los datos para la estación Central Pangal (Casa de Fuerza)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Pangal
+Falta la clave 'datosHistoricos' en los datos para la estación La Estrella retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coya
+Falta la clave 'datosHistoricos' en los datos para la estación Nido de Aguilas
+Falta la clave 'datosHistoricos' en los datos para la estación Los Robles
+Falta la clave 'datosHistoricos' en los datos para la estación Totihue
+Falta la clave 'datosHistoricos' en los datos para la estación Morro Chico retén
+Falta la clave 'datosHistoricos' en los datos para la estación Río Verde escuela G-33
+Ocurrió un error inesperado para la estación Mataveri  Isla de Pascua Ap.: 'NoneType' object has no attribute 'items'
+Falta la clave 'datosHistoricos' en los datos para la estación Sta. Bárbara Ad. (pista de emergencia)
+Falta la clave 'datosHistoricos' en los datos para la estación Ad. Las Marías, Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Cavancha Ap.
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Los Condores Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó, Chamonate Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Vallenar, Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación La Calera,  D.O.S
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Vaitea, Isla de Pascua
+Falta la clave 'datosHistoricos' en los datos para la estación El Parral
+Falta la clave 'datosHistoricos' en los datos para la estación Los Nichos Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Oscuro
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia Salamanca
+Falta la clave 'datosHistoricos' en los datos para la estación Huaquén hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Trapiche Longotoma
+Falta la clave 'datosHistoricos' en los datos para la estación Casas de Alicahue
+Falta la clave 'datosHistoricos' en los datos para la estación La Vega fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Catapilco hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El  Cobre, fundo Sta. María Pullally
+Falta la clave 'datosHistoricos' en los datos para la estación Quilpué Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Marga Marga
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Navidad
+Falta la clave 'datosHistoricos' en los datos para la estación Chacra Soloa
+Falta la clave 'datosHistoricos' en los datos para la estación Tranque Lepe
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo Rangue
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Marchigue
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Rengo Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Lihueumo Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San Diego de Puquillay
+Falta la clave 'datosHistoricos' en los datos para la estación Pumanque
+Falta la clave 'datosHistoricos' en los datos para la estación Las Arañas
+Falta la clave 'datosHistoricos' en los datos para la estación Iloca Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Licantén Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Nancagua 
+Falta la clave 'datosHistoricos' en los datos para la estación Lolol Hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando Ex Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Curepto Essam
+Falta la clave 'datosHistoricos' en los datos para la estación San Javier Particular
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Longaví
+Falta la clave 'datosHistoricos' en los datos para la estación Cauquenes Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse Bullilleo
+Falta la clave 'datosHistoricos' en los datos para la estación Nonguén  Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Caracol
+Falta la clave 'datosHistoricos' en los datos para la estación Chiguayante Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cabrero Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Bárbara Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambillo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Mulchén Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación La Araucanía Angol
+Falta la clave 'datosHistoricos' en los datos para la estación Panguipulli, Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Granja Vista Hermosa
+Falta la clave 'datosHistoricos' en los datos para la estación Reumen
+Falta la clave 'datosHistoricos' en los datos para la estación Carahue Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Nueva Imperial Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Curacautín Essar
+Falta la clave 'datosHistoricos' en los datos para la estación La Torcaza  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Flor del Lago
+Falta la clave 'datosHistoricos' en los datos para la estación Purulón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación San José de la Mariquina
+Falta la clave 'datosHistoricos' en los datos para la estación Curaco en la Balsa
+Falta la clave 'datosHistoricos' en los datos para la estación Quilentué Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Río Bueno
+Falta la clave 'datosHistoricos' en los datos para la estación San Pablo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Puyuhuapi
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Chuchiñi
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Curimón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Central Queltehues
+Falta la clave 'datosHistoricos' en los datos para la estación Central Los Morros
+Falta la clave 'datosHistoricos' en los datos para la estación Machalí
+Falta la clave 'datosHistoricos' en los datos para la estación Digua Embalse
+Falta la clave 'datosHistoricos' en los datos para la estación San Ignacio de Palomares
+Falta la clave 'datosHistoricos' en los datos para la estación Pinto Municipalidad
+Falta la clave 'datosHistoricos' en los datos para la estación Lebu Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Los Sauces Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Cardenal Samoré  (estación referencial)
+Falta la clave 'datosHistoricos' en los datos para la estación Galvarino Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Entre Lagos
+Falta la clave 'datosHistoricos' en los datos para la estación Frutillar Centro Forestal
+Falta la clave 'datosHistoricos' en los datos para la estación Rivadavia
+Falta la clave 'datosHistoricos' en los datos para la estación Reserva Nacional Fray Jorge
+Falta la clave 'datosHistoricos' en los datos para la estación Las Chinchillas
+Falta la clave 'datosHistoricos' en los datos para la estación Longotoma Liceo Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Catemu
+Falta la clave 'datosHistoricos' en los datos para la estación Polpaico
+Falta la clave 'datosHistoricos' en los datos para la estación Colina
+Falta la clave 'datosHistoricos' en los datos para la estación Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Llico, Reserva Laguna Torca
+Falta la clave 'datosHistoricos' en los datos para la estación Hidango
+Falta la clave 'datosHistoricos' en los datos para la estación La Rosa 
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe
+Falta la clave 'datosHistoricos' en los datos para la estación Paredones
+Falta la clave 'datosHistoricos' en los datos para la estación Tanumé
+Falta la clave 'datosHistoricos' en los datos para la estación Colchagua
+Falta la clave 'datosHistoricos' en los datos para la estación Vilches
+Falta la clave 'datosHistoricos' en los datos para la estación Chanco (Reserva Federico Albert)
+Falta la clave 'datosHistoricos' en los datos para la estación Maqui 1
+Falta la clave 'datosHistoricos' en los datos para la estación Monseñor Fagnano Punta Arenas
+Falta la clave 'datosHistoricos' en los datos para la estación Tacora retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chapiquiña retén
+Falta la clave 'datosHistoricos' en los datos para la estación Guallatire retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chilcaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Codpa retén
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua  retén (Pueblo)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua retén (Aduana)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Juntas del  Toro  tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui  retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Tórtolas retén
+Falta la clave 'datosHistoricos' en los datos para la estación Hurtado retén
+Falta la clave 'datosHistoricos' en los datos para la estación Tulahuén retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coirón retén
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela retén
+Falta la clave 'datosHistoricos' en los datos para la estación Villucura retén
+Falta la clave 'datosHistoricos' en los datos para la estación Achao Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Alcerreca retén
+Falta la clave 'datosHistoricos' en los datos para la estación Caquena retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chucuyo retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Salvador comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llanta control (retén)
+Falta la clave 'datosHistoricos' en los datos para la estación Inca de Oro retén
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó particular
+Falta la clave 'datosHistoricos' en los datos para la estación Los Loros retén
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Huasco Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación El Tránsito escuela
+Falta la clave 'datosHistoricos' en los datos para la estación San Félix fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Pino
+Falta la clave 'datosHistoricos' en los datos para la estación Andacollo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pachingo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Molle retén 
+Falta la clave 'datosHistoricos' en los datos para la estación Cerrillos de Tamaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Illapel Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Caimanes fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Las Vacas fundo 
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama, escuela
+Falta la clave 'datosHistoricos' en los datos para la estación El Ingenio fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puchuncaví hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Batuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Farellones Ski club 
+Falta la clave 'datosHistoricos' en los datos para la estación Planta San Ramón
+Falta la clave 'datosHistoricos' en los datos para la estación Barahona
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Isabel de Querelema
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando club aéreo
+Falta la clave 'datosHistoricos' en los datos para la estación Piuchén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Cerrillos ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Puquios retén
+Falta la clave 'datosHistoricos' en los datos para la estación Putre tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Chungará retén
+Falta la clave 'datosHistoricos' en los datos para la estación Parinacota
+Falta la clave 'datosHistoricos' en los datos para la estación Pisagua tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pica
+Falta la clave 'datosHistoricos' en los datos para la estación Ascotán FFCC
+Falta la clave 'datosHistoricos' en los datos para la estación El Tuqui, Ovalle Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chañaral  Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación El Tatio
+Falta la clave 'datosHistoricos' en los datos para la estación La Huayca, Pozo Almonte
+Falta la clave 'datosHistoricos' en los datos para la estación Potrerillos
+Falta la clave 'datosHistoricos' en los datos para la estación Freirina tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Conay retén
+Falta la clave 'datosHistoricos' en los datos para la estación San felix retén
+Falta la clave 'datosHistoricos' en los datos para la estación Huanta retén
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles de Bocatoma
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse la Paloma
+Falta la clave 'datosHistoricos' en los datos para la estación Los Peñones Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Carén
+Falta la clave 'datosHistoricos' en los datos para la estación San Lorenzo retén (Chañaral Alto)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Monte Patria subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pichasca
+Falta la clave 'datosHistoricos' en los datos para la estación Vicuña comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Salamanca C.C.T.
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Las Palmas de Mincha, fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen  de Totoralillo
+Falta la clave 'datosHistoricos' en los datos para la estación Quilimarí
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molinos  Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación Papudo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada de Silva retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe ejército
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe particular
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Quintero, Estación Aeronáutica
+Falta la clave 'datosHistoricos' en los datos para la estación Los Andes  comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llay Llay  Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Calle Larga tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada retén
+Falta la clave 'datosHistoricos' en los datos para la estación Saladillo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Radio Faro El Tabón
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo  San Felipe ( Tocornal )
+Falta la clave 'datosHistoricos' en los datos para la estación Zapallar retén
+Falta la clave 'datosHistoricos' en los datos para la estación Cuesta Chacabuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca
+Falta la clave 'datosHistoricos' en los datos para la estación Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación La Petorquina
+Falta la clave 'datosHistoricos' en los datos para la estación Central Maitenes retén
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Aguirre
+Falta la clave 'datosHistoricos' en los datos para la estación Curacaví tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Huinganal fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Dorado
+Falta la clave 'datosHistoricos' en los datos para la estación Los Rulos  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Valle Hermoso fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peldehue regimiento
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Curahumilla
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Alemana
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua
+Falta la clave 'datosHistoricos' en los datos para la estación Valdivia, Radio Est. FACH.
+Falta la clave 'datosHistoricos' en los datos para la estación Central Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Limache Esval
+Falta la clave 'datosHistoricos' en los datos para la estación San Gabriel retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Majadas fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Huallilemu fundo
+Falta la clave 'datosHistoricos' en los datos para la estación La Obra del Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Quebrada del Lunes
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Paulina
+Falta la clave 'datosHistoricos' en los datos para la estación Llo-Lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Valdes
+Falta la clave 'datosHistoricos' en los datos para la estación Los Almendros, La Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Alba
+Falta la clave 'datosHistoricos' en los datos para la estación Ancud Pupelde Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chamiza Puerto Montt Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Peñaflor subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación San Bernardo (Sr. Caviedes)
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia de Paine
+Falta la clave 'datosHistoricos' en los datos para la estación San Juan de Llo-lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Chada hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Longovilo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Paine
+Falta la clave 'datosHistoricos' en los datos para la estación Guayacán
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca (Fundo Nuevo Mundo)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Cachapoal
+Falta la clave 'datosHistoricos' en los datos para la estación Central Pangal (Casa de Fuerza)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Pangal
+Falta la clave 'datosHistoricos' en los datos para la estación La Estrella retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coya
+Falta la clave 'datosHistoricos' en los datos para la estación Nido de Aguilas
+Falta la clave 'datosHistoricos' en los datos para la estación Los Robles
+Falta la clave 'datosHistoricos' en los datos para la estación Totihue
+Falta la clave 'datosHistoricos' en los datos para la estación Morro Chico retén
+Falta la clave 'datosHistoricos' en los datos para la estación Río Verde escuela G-33
+Ocurrió un error inesperado para la estación Mataveri  Isla de Pascua Ap.: 'NoneType' object has no attribute 'items'
+Falta la clave 'datosHistoricos' en los datos para la estación Sta. Bárbara Ad. (pista de emergencia)
+Falta la clave 'datosHistoricos' en los datos para la estación Ad. Las Marías, Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Cavancha Ap.
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Los Condores Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó, Chamonate Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Vallenar, Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación La Calera,  D.O.S
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Vaitea, Isla de Pascua
+Falta la clave 'datosHistoricos' en los datos para la estación El Parral
+Falta la clave 'datosHistoricos' en los datos para la estación Los Nichos Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Oscuro
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia Salamanca
+Falta la clave 'datosHistoricos' en los datos para la estación Huaquén hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Trapiche Longotoma
+Falta la clave 'datosHistoricos' en los datos para la estación Casas de Alicahue
+Falta la clave 'datosHistoricos' en los datos para la estación La Vega fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Catapilco hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El  Cobre, fundo Sta. María Pullally
+Falta la clave 'datosHistoricos' en los datos para la estación Quilpué Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Marga Marga
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Navidad
+Falta la clave 'datosHistoricos' en los datos para la estación Chacra Soloa
+Falta la clave 'datosHistoricos' en los datos para la estación Tranque Lepe
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo Rangue
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Marchigue
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Rengo Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Lihueumo Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San Diego de Puquillay
+Falta la clave 'datosHistoricos' en los datos para la estación Pumanque
+Falta la clave 'datosHistoricos' en los datos para la estación Las Arañas
+Falta la clave 'datosHistoricos' en los datos para la estación Iloca Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Licantén Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Nancagua 
+Falta la clave 'datosHistoricos' en los datos para la estación Lolol Hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando Ex Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Curepto Essam
+Falta la clave 'datosHistoricos' en los datos para la estación San Javier Particular
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Longaví
+Falta la clave 'datosHistoricos' en los datos para la estación Cauquenes Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse Bullilleo
+Falta la clave 'datosHistoricos' en los datos para la estación Nonguén  Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Caracol
+Falta la clave 'datosHistoricos' en los datos para la estación Chiguayante Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cabrero Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Bárbara Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambillo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Mulchén Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación La Araucanía Angol
+Falta la clave 'datosHistoricos' en los datos para la estación Panguipulli, Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Granja Vista Hermosa
+Falta la clave 'datosHistoricos' en los datos para la estación Reumen
+Falta la clave 'datosHistoricos' en los datos para la estación Carahue Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Nueva Imperial Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Curacautín Essar
+Falta la clave 'datosHistoricos' en los datos para la estación La Torcaza  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Flor del Lago
+Falta la clave 'datosHistoricos' en los datos para la estación Purulón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación San José de la Mariquina
+Falta la clave 'datosHistoricos' en los datos para la estación Curaco en la Balsa
+Falta la clave 'datosHistoricos' en los datos para la estación Quilentué Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Río Bueno
+Falta la clave 'datosHistoricos' en los datos para la estación San Pablo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Puyuhuapi
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Chuchiñi
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Curimón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Central Queltehues
+Falta la clave 'datosHistoricos' en los datos para la estación Central Los Morros
+Falta la clave 'datosHistoricos' en los datos para la estación Machalí
+Falta la clave 'datosHistoricos' en los datos para la estación Digua Embalse
+Falta la clave 'datosHistoricos' en los datos para la estación San Ignacio de Palomares
+Falta la clave 'datosHistoricos' en los datos para la estación Pinto Municipalidad
+Falta la clave 'datosHistoricos' en los datos para la estación Lebu Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Los Sauces Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Cardenal Samoré  (estación referencial)
+Falta la clave 'datosHistoricos' en los datos para la estación Galvarino Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Entre Lagos
+Falta la clave 'datosHistoricos' en los datos para la estación Frutillar Centro Forestal
+Falta la clave 'datosHistoricos' en los datos para la estación Rivadavia
+Falta la clave 'datosHistoricos' en los datos para la estación Reserva Nacional Fray Jorge
+Falta la clave 'datosHistoricos' en los datos para la estación Las Chinchillas
+Falta la clave 'datosHistoricos' en los datos para la estación Longotoma Liceo Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Catemu
+Falta la clave 'datosHistoricos' en los datos para la estación Polpaico
+Falta la clave 'datosHistoricos' en los datos para la estación Colina
+Falta la clave 'datosHistoricos' en los datos para la estación Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Llico, Reserva Laguna Torca
+Falta la clave 'datosHistoricos' en los datos para la estación Hidango
+Falta la clave 'datosHistoricos' en los datos para la estación La Rosa 
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe
+Falta la clave 'datosHistoricos' en los datos para la estación Paredones
+Falta la clave 'datosHistoricos' en los datos para la estación Tanumé
+Falta la clave 'datosHistoricos' en los datos para la estación Colchagua
+Falta la clave 'datosHistoricos' en los datos para la estación Vilches
+Falta la clave 'datosHistoricos' en los datos para la estación Chanco (Reserva Federico Albert)
+Falta la clave 'datosHistoricos' en los datos para la estación Maqui 1
+Falta la clave 'datosHistoricos' en los datos para la estación Monseñor Fagnano Punta Arenas
+Falta la clave 'datosHistoricos' en los datos para la estación Tacora retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chapiquiña retén
+Falta la clave 'datosHistoricos' en los datos para la estación Guallatire retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chilcaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Codpa retén
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua  retén (Pueblo)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua retén (Aduana)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Juntas del  Toro  tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui  retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Tórtolas retén
+Falta la clave 'datosHistoricos' en los datos para la estación Hurtado retén
+Falta la clave 'datosHistoricos' en los datos para la estación Tulahuén retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coirón retén
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela retén
+Falta la clave 'datosHistoricos' en los datos para la estación Villucura retén
+Falta la clave 'datosHistoricos' en los datos para la estación Achao Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Alcerreca retén
+Falta la clave 'datosHistoricos' en los datos para la estación Caquena retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chucuyo retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Salvador comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llanta control (retén)
+Falta la clave 'datosHistoricos' en los datos para la estación Inca de Oro retén
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó particular
+Falta la clave 'datosHistoricos' en los datos para la estación Los Loros retén
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Huasco Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación El Tránsito escuela
+Falta la clave 'datosHistoricos' en los datos para la estación San Félix fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Pino
+Falta la clave 'datosHistoricos' en los datos para la estación Andacollo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pachingo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Molle retén 
+Falta la clave 'datosHistoricos' en los datos para la estación Cerrillos de Tamaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Illapel Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Caimanes fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Las Vacas fundo 
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama, escuela
+Falta la clave 'datosHistoricos' en los datos para la estación El Ingenio fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puchuncaví hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Batuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Farellones Ski club 
+Falta la clave 'datosHistoricos' en los datos para la estación Planta San Ramón
+Falta la clave 'datosHistoricos' en los datos para la estación Barahona
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Isabel de Querelema
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando club aéreo
+Falta la clave 'datosHistoricos' en los datos para la estación Piuchén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Cerrillos ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Puquios retén
+Falta la clave 'datosHistoricos' en los datos para la estación Putre tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Chungará retén
+Falta la clave 'datosHistoricos' en los datos para la estación Parinacota
+Falta la clave 'datosHistoricos' en los datos para la estación Pisagua tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pica
+Falta la clave 'datosHistoricos' en los datos para la estación Ascotán FFCC
+Falta la clave 'datosHistoricos' en los datos para la estación El Tuqui, Ovalle Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chañaral  Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación El Tatio
+Falta la clave 'datosHistoricos' en los datos para la estación La Huayca, Pozo Almonte
+Falta la clave 'datosHistoricos' en los datos para la estación Potrerillos
+Falta la clave 'datosHistoricos' en los datos para la estación Freirina tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Conay retén
+Falta la clave 'datosHistoricos' en los datos para la estación San felix retén
+Falta la clave 'datosHistoricos' en los datos para la estación Huanta retén
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles de Bocatoma
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse la Paloma
+Falta la clave 'datosHistoricos' en los datos para la estación Los Peñones Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Carén
+Falta la clave 'datosHistoricos' en los datos para la estación San Lorenzo retén (Chañaral Alto)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Monte Patria subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pichasca
+Falta la clave 'datosHistoricos' en los datos para la estación Vicuña comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Salamanca C.C.T.
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Las Palmas de Mincha, fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen  de Totoralillo
+Falta la clave 'datosHistoricos' en los datos para la estación Quilimarí
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molinos  Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación Papudo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada de Silva retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe ejército
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe particular
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Quintero, Estación Aeronáutica
+Falta la clave 'datosHistoricos' en los datos para la estación Los Andes  comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llay Llay  Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Calle Larga tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada retén
+Falta la clave 'datosHistoricos' en los datos para la estación Saladillo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Radio Faro El Tabón
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo  San Felipe ( Tocornal )
+Falta la clave 'datosHistoricos' en los datos para la estación Zapallar retén
+Falta la clave 'datosHistoricos' en los datos para la estación Cuesta Chacabuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca
+Falta la clave 'datosHistoricos' en los datos para la estación Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación La Petorquina
+Falta la clave 'datosHistoricos' en los datos para la estación Central Maitenes retén
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Aguirre
+Falta la clave 'datosHistoricos' en los datos para la estación Curacaví tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Huinganal fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Dorado
+Falta la clave 'datosHistoricos' en los datos para la estación Los Rulos  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Valle Hermoso fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peldehue regimiento
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Curahumilla
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Alemana
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua
+Falta la clave 'datosHistoricos' en los datos para la estación Valdivia, Radio Est. FACH.
+Falta la clave 'datosHistoricos' en los datos para la estación Central Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Limache Esval
+Falta la clave 'datosHistoricos' en los datos para la estación San Gabriel retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Majadas fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Huallilemu fundo
+Falta la clave 'datosHistoricos' en los datos para la estación La Obra del Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Quebrada del Lunes
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Paulina
+Falta la clave 'datosHistoricos' en los datos para la estación Llo-Lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Valdes
+Falta la clave 'datosHistoricos' en los datos para la estación Los Almendros, La Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Alba
+Falta la clave 'datosHistoricos' en los datos para la estación Ancud Pupelde Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chamiza Puerto Montt Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Peñaflor subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación San Bernardo (Sr. Caviedes)
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia de Paine
+Falta la clave 'datosHistoricos' en los datos para la estación San Juan de Llo-lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Chada hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Longovilo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Paine
+Falta la clave 'datosHistoricos' en los datos para la estación Guayacán
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca (Fundo Nuevo Mundo)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Cachapoal
+Falta la clave 'datosHistoricos' en los datos para la estación Central Pangal (Casa de Fuerza)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Pangal
+Falta la clave 'datosHistoricos' en los datos para la estación La Estrella retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coya
+Falta la clave 'datosHistoricos' en los datos para la estación Nido de Aguilas
+Falta la clave 'datosHistoricos' en los datos para la estación Los Robles
+Falta la clave 'datosHistoricos' en los datos para la estación Totihue
+Falta la clave 'datosHistoricos' en los datos para la estación Morro Chico retén
+Falta la clave 'datosHistoricos' en los datos para la estación Río Verde escuela G-33
+Falta la clave 'datosHistoricos' en los datos para la estación Coyhaique escuela agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Huano
+Falta la clave 'datosHistoricos' en los datos para la estación Puaucho
+Falta la clave 'datosHistoricos' en los datos para la estación Laguna San Rafael
+Falta la clave 'datosHistoricos' en los datos para la estación Hueyusca
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Marina de Putagán
+Falta la clave 'datosHistoricos' en los datos para la estación Comaco - Curacautín
+Falta la clave 'datosHistoricos' en los datos para la estación Traiguén - Regimiento Miraflores
+Falta la clave 'datosHistoricos' en los datos para la estación Cunco Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Capitán Pastene tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Hijuela Tres Pueblas
+Falta la clave 'datosHistoricos' en los datos para la estación Curanilahue
+Falta la clave 'datosHistoricos' en los datos para la estación El Torreón
+Falta la clave 'datosHistoricos' en los datos para la estación San Cristobal fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Instituto Profesional Adventista  Chillán
+Falta la clave 'datosHistoricos' en los datos para la estación Hualqui Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Los Queñes Retén
+Falta la clave 'datosHistoricos' en los datos para la estación Perquilauquen
+Falta la clave 'datosHistoricos' en los datos para la estación Huequén Angol
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen de Chanco
+Falta la clave 'datosHistoricos' en los datos para la estación San Vicente de Tagua Tagua
+Falta la clave 'datosHistoricos' en los datos para la estación Hualañe Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos I.N.I.A.
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Rosa de Cato
+Falta la clave 'datosHistoricos' en los datos para la estación Central Alfalfal
+Falta la clave 'datosHistoricos' en los datos para la estación Teno Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Chimbarongo subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Placilla
+Falta la clave 'datosHistoricos' en los datos para la estación San Miguel de Querelema
+Falta la clave 'datosHistoricos' en los datos para la estación Idahue fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Romeral Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Chanqueahue
+Falta la clave 'datosHistoricos' en los datos para la estación Los Lingues
+Falta la clave 'datosHistoricos' en los datos para la estación Río Cipreses
+Falta la clave 'datosHistoricos' en los datos para la estación Yaquil
+Falta la clave 'datosHistoricos' en los datos para la estación El Romero
+Falta la clave 'datosHistoricos' en los datos para la estación Lolol
+Falta la clave 'datosHistoricos' en los datos para la estación Colón
+Falta la clave 'datosHistoricos' en los datos para la estación Huaquén
+Falta la clave 'datosHistoricos' en los datos para la estación Curepto
+Falta la clave 'datosHistoricos' en los datos para la estación Rari
+Falta la clave 'datosHistoricos' en los datos para la estación San Agustín de Aurora
+Falta la clave 'datosHistoricos' en los datos para la estación Pelarco
+Falta la clave 'datosHistoricos' en los datos para la estación Constitución (Quivolgo)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Petriles de Yacal
+Falta la clave 'datosHistoricos' en los datos para la estación Linares Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Achibueno retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chanco Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Nirivilo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Bellavista, Universidad de Concepción
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro
+Falta la clave 'datosHistoricos' en los datos para la estación Dunas de Chanco (Pahuil)
+Falta la clave 'datosHistoricos' en los datos para la estación Botacura
+Falta la clave 'datosHistoricos' en los datos para la estación San Gregorio tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Ñiquén retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Nicolás retén
+Falta la clave 'datosHistoricos' en los datos para la estación Linares F.A.C.H.
+Falta la clave 'datosHistoricos' en los datos para la estación Talca regimiento
+Falta la clave 'datosHistoricos' en los datos para la estación Panimávida
+Falta la clave 'datosHistoricos' en los datos para la estación Pemuco tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Bulnes Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación San Fabián de alico subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación San Carlos Sendos 
+Falta la clave 'datosHistoricos' en los datos para la estación Parral Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Victoria (EAP)
+Falta la clave 'datosHistoricos' en los datos para la estación Victoria Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Quitratue retén
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Teja  (Universidad Austral Valdivia)
+Falta la clave 'datosHistoricos' en los datos para la estación Mehuín
+Falta la clave 'datosHistoricos' en los datos para la estación Punahue
+Falta la clave 'datosHistoricos' en los datos para la estación Chan Chan
+Falta la clave 'datosHistoricos' en los datos para la estación Loncoche comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Villarrica Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Saavedra tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Padre las Casas
+Falta la clave 'datosHistoricos' en los datos para la estación Vilcún tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación San Patricio  (Retén Cherchenco)
+Falta la clave 'datosHistoricos' en los datos para la estación Lautaro Sendos 
+Falta la clave 'datosHistoricos' en los datos para la estación Selva Oscura retén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Notros, parcela 10
+Falta la clave 'datosHistoricos' en los datos para la estación Cañete comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo los Sauces 
+Falta la clave 'datosHistoricos' en los datos para la estación Tucapel retén
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Las Colmenas (Ex La Palma hacienda)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Quilales fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Castro Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Aguirre
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Ramirez
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Varas
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Guarello
+Falta la clave 'datosHistoricos' en los datos para la estación La Ensenada
+Falta la clave 'datosHistoricos' en los datos para la estación La Unión Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Lago Ranco
+Falta la clave 'datosHistoricos' en los datos para la estación Quillaico
+Falta la clave 'datosHistoricos' en los datos para la estación Osorno Ovejería
+Falta la clave 'datosHistoricos' en los datos para la estación Futrono
+Falta la clave 'datosHistoricos' en los datos para la estación Pucón
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Industrial retén
+Falta la clave 'datosHistoricos' en los datos para la estación Segundo Corral Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Monseñor Fagnano Puerto Natales
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Dawson
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Edén
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle Oficina Meteorológica (Liceo)
+Falta la clave 'datosHistoricos' en los datos para la estación El Buitre Arica Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Rancagua, Radioestación F.A.CH.
+Falta la clave 'datosHistoricos' en los datos para la estación El Bosque Base Aérea
+Falta la clave 'datosHistoricos' en los datos para la estación El Belloto Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Montemar
+Falta la clave 'datosHistoricos' en los datos para la estación Ancud Pudeto
+Falta la clave 'datosHistoricos' en los datos para la estación Illapel Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Pampa Uribe Comunidad GEN
+Falta la clave 'datosHistoricos' en los datos para la estación Salamanca Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma los Maitenes
+Falta la clave 'datosHistoricos' en los datos para la estación Graneros Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Parrón
+Falta la clave 'datosHistoricos' en los datos para la estación Angol Los Estanques
+Falta la clave 'datosHistoricos' en los datos para la estación El Huachi
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia San Gerardo
+Falta la clave 'datosHistoricos' en los datos para la estación Sewell
+Falta la clave 'datosHistoricos' en los datos para la estación Temuco Universidad Católica
+Falta la clave 'datosHistoricos' en los datos para la estación Parral Copihue
+Falta la clave 'datosHistoricos' en los datos para la estación Paillaco
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad de Talca
+Falta la clave 'datosHistoricos' en los datos para la estación Puente Negro retén
+Falta la clave 'datosHistoricos' en los datos para la estación Melipilla
+Falta la clave 'datosHistoricos' en los datos para la estación Chaca
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Velero
+Falta la clave 'datosHistoricos' en los datos para la estación San Esteban retén
+Falta la clave 'datosHistoricos' en los datos para la estación Cristo Redentor
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Calán
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Rincón del Abra fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Codegua fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Rancagua fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Vicuña D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Fray Jorge
+Falta la clave 'datosHistoricos' en los datos para la estación Incahuasi retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Palmilla fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peralillo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Quilaco
+Falta la clave 'datosHistoricos' en los datos para la estación Los Ángeles Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad Católica
+Falta la clave 'datosHistoricos' en los datos para la estación Purén los estanques
+Falta la clave 'datosHistoricos' en los datos para la estación Faro Tres Cruces
+Falta la clave 'datosHistoricos' en los datos para la estación San Gregorio
+Falta la clave 'datosHistoricos' en los datos para la estación Chaitén Yelcho
+Falta la clave 'datosHistoricos' en los datos para la estación Retiro Bureo
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Juana Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Alcones fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Chimbarongo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San javier fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San Clemente fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Porvenir fundo
+Falta la clave 'datosHistoricos' en los datos para la estación La Serena - Oficina Meteorológica
+Falta la clave 'datosHistoricos' en los datos para la estación Hualpencillo
+Falta la clave 'datosHistoricos' en los datos para la estación NOS  Aguas Andinas
+Falta la clave 'datosHistoricos' en los datos para la estación Arrayán Aguas Andinas
+Falta la clave 'datosHistoricos' en los datos para la estación Las Vizcachas Aguas Andinas
+Falta la clave 'datosHistoricos' en los datos para la estación Rio Las Minas
+Falta la clave 'datosHistoricos' en los datos para la estación Socompa retén
+Falta la clave 'datosHistoricos' en los datos para la estación Pan de Azúcar
+Falta la clave 'datosHistoricos' en los datos para la estación Colina Base Aérea
+Falta la clave 'datosHistoricos' en los datos para la estación Arica (Universidad de Tarapacá - Radiación UV) 
+Falta la clave 'datosHistoricos' en los datos para la estación María Elena (Soquimich - Radiación - UV)
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama (Universidad Católica del Norte - Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Valle Nevado ( Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Talca Universidad Autónoma de Chile - Radiación UV.
+Falta la clave 'datosHistoricos' en los datos para la estación Temuco  (Universidad Católica de Temuco - Radiación UV.)
+Falta la clave 'datosHistoricos' en los datos para la estación Valdivia (Centro de Estudios Científicos - Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad Austral Valdivia - Radiación UV.
+Falta la clave 'datosHistoricos' en los datos para la estación Valparaíso (Gob. Marítima - Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos D.O.S
+Falta la clave 'datosHistoricos' en los datos para la estación El Loa - Chuquicamata CODELCO
+Falta la clave 'datosHistoricos' en los datos para la estación Sierra Gorda retén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos particular
+Falta la clave 'datosHistoricos' en los datos para la estación Río Cisnes
+Falta la clave 'datosHistoricos' en los datos para la estación Carén CODELCO
+Falta la clave 'datosHistoricos' en los datos para la estación Molina escuela agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación San Luis de Talca
+Falta la clave 'datosHistoricos' en los datos para la estación Dimilhue fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Contulmo Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Llanquihue Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Laguna Blanca
+Falta la clave 'datosHistoricos' en los datos para la estación Sección Searle
+Falta la clave 'datosHistoricos' en los datos para la estación Belén retén
+Falta la clave 'datosHistoricos' en los datos para la estación Pedehua retén
+Falta la clave 'datosHistoricos' en los datos para la estación Hierro Viejo
+Falta la clave 'datosHistoricos' en los datos para la estación Tocopilla
+Falta la clave 'datosHistoricos' en los datos para la estación Huara tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación La Silla
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela DGA
+Falta la clave 'datosHistoricos' en los datos para la estación San Lorenzo, retén
+Falta la clave 'datosHistoricos' en los datos para la estación Putaendo
+Falta la clave 'datosHistoricos' en los datos para la estación Quebrada de la Plata
+Falta la clave 'datosHistoricos' en los datos para la estación Carmen Alto
+Falta la clave 'datosHistoricos' en los datos para la estación Chabunco Punta Arenas Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Huelquen La Vega fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Las Melosas
+Falta la clave 'datosHistoricos' en los datos para la estación Los Morros retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Gerónimo
+Falta la clave 'datosHistoricos' en los datos para la estación Chépica SENDOS
+Falta la clave 'datosHistoricos' en los datos para la estación Chacayes BRADEN
+Falta la clave 'datosHistoricos' en los datos para la estación Don Bosco Linares Escuela  Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Campamento Cuatro
+Falta la clave 'datosHistoricos' en los datos para la estación Bellavista Tomé
+Falta la clave 'datosHistoricos' en los datos para la estación Talcahuano (D.O.C.A.)
+Falta la clave 'datosHistoricos' en los datos para la estación Coelemu SENDOS
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Santa Adela (Los Laureles)
+Falta la clave 'datosHistoricos' en los datos para la estación Vista Alegre
+Falta la clave 'datosHistoricos' en los datos para la estación Los Confines club aéreo
+Falta la clave 'datosHistoricos' en los datos para la estación Lota Estanques
+Falta la clave 'datosHistoricos' en los datos para la estación San Juán de La Costa
+Falta la clave 'datosHistoricos' en los datos para la estación Ralún
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Millantué
+Falta la clave 'datosHistoricos' en los datos para la estación Río Bueno D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Pueblo Hundido retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Tofo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Antuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Catalina retén
+Falta la clave 'datosHistoricos' en los datos para la estación Manquehua retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Porvenir fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Litu fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Misión de Rahue
+Falta la clave 'datosHistoricos' en los datos para la estación El Mirador fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Pedro de Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Los Arrayanes
+Falta la clave 'datosHistoricos' en los datos para la estación Chusmiza
+Falta la clave 'datosHistoricos' en los datos para la estación Caldera
+Falta la clave 'datosHistoricos' en los datos para la estación La Serena  Almirante Latorre 
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle  Samo Alto retén
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle, Huallillinga (ex Altar Alto)
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle, Valdivia hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Vallenar Campex
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá, San Marcos retén
+Falta la clave 'datosHistoricos' en los datos para la estación Monte Patria, el Palqui retén
+Falta la clave 'datosHistoricos' en los datos para la estación Punitaqui retén
+Falta la clave 'datosHistoricos' en los datos para la estación Tongoy hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación La Serena Campex
+Falta la clave 'datosHistoricos' en los datos para la estación Maitencillo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chillán Quinchamalí
+Falta la clave 'datosHistoricos' en los datos para la estación Batuco fundo, Yumbel
+Falta la clave 'datosHistoricos' en los datos para la estación Curacautín,  retén el Troyo
+Falta la clave 'datosHistoricos' en los datos para la estación Pichidangui, Los Condores fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Paredones Vivero
+Falta la clave 'datosHistoricos' en los datos para la estación Santiago, Cerro San Cristobal
+Falta la clave 'datosHistoricos' en los datos para la estación Sierra Gorda, Baquedano
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Arenas, Universidad de Magallanes (Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Curanilahue, La Colcha fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Hueyusca, Osorno
+Falta la clave 'datosHistoricos' en los datos para la estación Contulmo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Octay
+Falta la clave 'datosHistoricos' en los datos para la estación Angol escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Ollagüe 
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama II (Universidad Católica del Norte - radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Pumire, Colchane
+Falta la clave 'datosHistoricos' en los datos para la estación Coyacagua, Pica
+Falta la clave 'datosHistoricos' en los datos para la estación Corral de Julio, Ovalle
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos climatológica
+Falta la clave 'datosHistoricos' en los datos para la estación Pangal Endesa, Machalí
+Falta la clave 'datosHistoricos' en los datos para la estación Río Caracarani en Humapalca
+Falta la clave 'datosHistoricos' en los datos para la estación Digullín embalse,  Chillán
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando de Mingue
+Falta la clave 'datosHistoricos' en los datos para la estación La Vega (Petorca)
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Llafenco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Huentelauquén, Los Vilos
+Falta la clave 'datosHistoricos' en los datos para la estación Mincha retén, Illapel
+Falta la clave 'datosHistoricos' en los datos para la estación Chincolco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Cóndores retén, Pichidangui
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Calvo retén, Los Andes
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Cristal, Chile Chico
+Falta la clave 'datosHistoricos' en los datos para la estación Coyhaique SAG
+Falta la clave 'datosHistoricos' en los datos para la estación Isla San Pedro D.M.C.
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Guido radioestación,  Torres del Paine
+Falta la clave 'datosHistoricos' en los datos para la estación Diaguitas retén,  Vicuña
+Falta la clave 'datosHistoricos' en los datos para la estación Coronel Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Nacimiento, Los Ángeles
+Falta la clave 'datosHistoricos' en los datos para la estación Coelemu retén
+Falta la clave 'datosHistoricos' en los datos para la estación Barro Blanco, Osorno
+Falta la clave 'datosHistoricos' en los datos para la estación San Enrique de Bucalemu
+Falta la clave 'datosHistoricos' en los datos para la estación El Olivar  U.F. Santa María
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad Federico Santa María
+Falta la clave 'datosHistoricos' en los datos para la estación Indus Quintay fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Pampa Guanaco, Tierra del Fuego 
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Consuelo
+Falta la clave 'datosHistoricos' en los datos para la estación Quitaluto Univ. Austral, Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Talcahuano radioestación
+Falta la clave 'datosHistoricos' en los datos para la estación Traiguén Oficina Meteorológica
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Navarino, Tierra del Fuego
+Falta la clave 'datosHistoricos' en los datos para la estación Mirador Marchant, Coyhaique
+Falta la clave 'datosHistoricos' en los datos para la estación Caldera R.B.
+Falta la clave 'datosHistoricos' en los datos para la estación Angol, Húsares
+Falta la clave 'datosHistoricos' en los datos para la estación Victoria (Reg.)
+Falta la clave 'datosHistoricos' en los datos para la estación Aeródromo de la Independencia
+Falta la clave 'datosHistoricos' en los datos para la estación Calleuque fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peldehue Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Antofagasta, Oficina Meteorológica
+Falta la clave 'datosHistoricos' en los datos para la estación Tenencia Puchuncaví
+Falta la clave 'datosHistoricos' en los datos para la estación El Teniente
+Falta la clave 'datosHistoricos' en los datos para la estación El Vergel Angol
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Galera faro
+Falta la clave 'datosHistoricos' en los datos para la estación Gutamanga Chacao
+Falta la clave 'datosHistoricos' en los datos para la estación Maullín
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Apiao
+Falta la clave 'datosHistoricos' en los datos para la estación Bahia catalina Punta Arenas
+Falta la clave 'datosHistoricos' en los datos para la estación Bajo Palena
+Falta la clave 'datosHistoricos' en los datos para la estación Contulmo Of. Met.
+Falta la clave 'datosHistoricos' en los datos para la estación Escuela de Artillería Linares
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad de la Frontera Temuco
+Falta la clave 'datosHistoricos' en los datos para la estación Llanos de Caleu - La Dormida
+Falta la clave 'datosHistoricos' en los datos para la estación Pucón Aeródromo
+Falta la clave 'datosHistoricos' en los datos para la estación La Unión, Agrotec
+Falta la clave 'datosHistoricos' en los datos para la estación Arica estación Nueva
+Falta la clave 'datosHistoricos' en los datos para la estación Purranque
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Cayumanque
+Falta la clave 'datosHistoricos' en los datos para la estación Chorrillos, Calama
+Falta la clave 'datosHistoricos' en los datos para la estación La Colcha, Arauco
+Falta la clave 'datosHistoricos' en los datos para la estación Parque Carén, Municipalidad de Pudahuel
+Falta la clave 'datosHistoricos' en los datos para la estación San Esteban, Liceo
+Falta la clave 'datosHistoricos' en los datos para la estación Quillota, Liceo Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapo, Cerro Antenas
+Ocurrió un error inesperado para la estación Mataveri  Isla de Pascua Ap.: 'NoneType' object has no attribute 'items'
+Falta la clave 'datosHistoricos' en los datos para la estación Sta. Bárbara Ad. (pista de emergencia)
+Falta la clave 'datosHistoricos' en los datos para la estación Ad. Las Marías, Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Cavancha Ap.
+Falta la clave 'datosHistoricos' en los datos para la estación Iquique, Los Condores Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó, Chamonate Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Vallenar, Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación La Calera,  D.O.S
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Vaitea, Isla de Pascua
+Falta la clave 'datosHistoricos' en los datos para la estación El Parral
+Falta la clave 'datosHistoricos' en los datos para la estación Los Nichos Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Oscuro
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia Salamanca
+Falta la clave 'datosHistoricos' en los datos para la estación Huaquén hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Trapiche Longotoma
+Falta la clave 'datosHistoricos' en los datos para la estación Casas de Alicahue
+Falta la clave 'datosHistoricos' en los datos para la estación La Vega fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Catapilco hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El  Cobre, fundo Sta. María Pullally
+Falta la clave 'datosHistoricos' en los datos para la estación Quilpué Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Marga Marga
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Navidad
+Falta la clave 'datosHistoricos' en los datos para la estación Chacra Soloa
+Falta la clave 'datosHistoricos' en los datos para la estación Tranque Lepe
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo Rangue
+Falta la clave 'datosHistoricos' en los datos para la estación San José de Marchigue
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Rengo Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Lihueumo Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San Diego de Puquillay
+Falta la clave 'datosHistoricos' en los datos para la estación Pumanque
+Falta la clave 'datosHistoricos' en los datos para la estación Las Arañas
+Falta la clave 'datosHistoricos' en los datos para la estación Iloca Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Licantén Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Nancagua 
+Falta la clave 'datosHistoricos' en los datos para la estación Lolol Hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando Ex Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Curepto Essam
+Falta la clave 'datosHistoricos' en los datos para la estación San Javier Particular
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Longaví
+Falta la clave 'datosHistoricos' en los datos para la estación Cauquenes Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse Bullilleo
+Falta la clave 'datosHistoricos' en los datos para la estación Nonguén  Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Caracol
+Falta la clave 'datosHistoricos' en los datos para la estación Chiguayante Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Cabrero Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Bárbara Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambillo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Mulchén Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación La Araucanía Angol
+Falta la clave 'datosHistoricos' en los datos para la estación Panguipulli, Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Granja Vista Hermosa
+Falta la clave 'datosHistoricos' en los datos para la estación Reumen
+Falta la clave 'datosHistoricos' en los datos para la estación Carahue Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Nueva Imperial Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Curacautín Essar
+Falta la clave 'datosHistoricos' en los datos para la estación La Torcaza  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Flor del Lago
+Falta la clave 'datosHistoricos' en los datos para la estación Purulón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación San José de la Mariquina
+Falta la clave 'datosHistoricos' en los datos para la estación Curaco en la Balsa
+Falta la clave 'datosHistoricos' en los datos para la estación Quilentué Fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Río Bueno
+Falta la clave 'datosHistoricos' en los datos para la estación San Pablo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Puyuhuapi
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Chuchiñi
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Curimón Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Central Queltehues
+Falta la clave 'datosHistoricos' en los datos para la estación Central Los Morros
+Falta la clave 'datosHistoricos' en los datos para la estación Machalí
+Falta la clave 'datosHistoricos' en los datos para la estación Digua Embalse
+Falta la clave 'datosHistoricos' en los datos para la estación San Ignacio de Palomares
+Falta la clave 'datosHistoricos' en los datos para la estación Pinto Municipalidad
+Falta la clave 'datosHistoricos' en los datos para la estación Lebu Essbio
+Falta la clave 'datosHistoricos' en los datos para la estación Los Sauces Essar
+Falta la clave 'datosHistoricos' en los datos para la estación Cardenal Samoré  (estación referencial)
+Falta la clave 'datosHistoricos' en los datos para la estación Galvarino Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Entre Lagos
+Falta la clave 'datosHistoricos' en los datos para la estación Frutillar Centro Forestal
+Falta la clave 'datosHistoricos' en los datos para la estación Rivadavia
+Falta la clave 'datosHistoricos' en los datos para la estación Reserva Nacional Fray Jorge
+Falta la clave 'datosHistoricos' en los datos para la estación Las Chinchillas
+Falta la clave 'datosHistoricos' en los datos para la estación Longotoma Liceo Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Catemu
+Falta la clave 'datosHistoricos' en los datos para la estación Polpaico
+Falta la clave 'datosHistoricos' en los datos para la estación Colina
+Falta la clave 'datosHistoricos' en los datos para la estación Hospital
+Falta la clave 'datosHistoricos' en los datos para la estación Llico, Reserva Laguna Torca
+Falta la clave 'datosHistoricos' en los datos para la estación Hidango
+Falta la clave 'datosHistoricos' en los datos para la estación La Rosa 
+Falta la clave 'datosHistoricos' en los datos para la estación Marchigüe
+Falta la clave 'datosHistoricos' en los datos para la estación Paredones
+Falta la clave 'datosHistoricos' en los datos para la estación Tanumé
+Falta la clave 'datosHistoricos' en los datos para la estación Colchagua
+Falta la clave 'datosHistoricos' en los datos para la estación Vilches
+Falta la clave 'datosHistoricos' en los datos para la estación Chanco (Reserva Federico Albert)
+Falta la clave 'datosHistoricos' en los datos para la estación Maqui 1
+Falta la clave 'datosHistoricos' en los datos para la estación Monseñor Fagnano Punta Arenas
+Falta la clave 'datosHistoricos' en los datos para la estación Tacora retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chapiquiña retén
+Falta la clave 'datosHistoricos' en los datos para la estación Guallatire retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chilcaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Codpa retén
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua  retén (Pueblo)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua retén (Aduana)
+Falta la clave 'datosHistoricos' en los datos para la estación Quillagua Escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Juntas del  Toro  tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui  retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Tórtolas retén
+Falta la clave 'datosHistoricos' en los datos para la estación Hurtado retén
+Falta la clave 'datosHistoricos' en los datos para la estación Tulahuén retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coirón retén
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela retén
+Falta la clave 'datosHistoricos' en los datos para la estación Villucura retén
+Falta la clave 'datosHistoricos' en los datos para la estación Achao Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Alcerreca retén
+Falta la clave 'datosHistoricos' en los datos para la estación Caquena retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chucuyo retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Salvador comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llanta control (retén)
+Falta la clave 'datosHistoricos' en los datos para la estación Inca de Oro retén
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapó particular
+Falta la clave 'datosHistoricos' en los datos para la estación Los Loros retén
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Huasco Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación El Tránsito escuela
+Falta la clave 'datosHistoricos' en los datos para la estación San Félix fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Pino
+Falta la clave 'datosHistoricos' en los datos para la estación Andacollo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pachingo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Molle retén 
+Falta la clave 'datosHistoricos' en los datos para la estación Cerrillos de Tamaya retén
+Falta la clave 'datosHistoricos' en los datos para la estación Illapel Essco
+Falta la clave 'datosHistoricos' en los datos para la estación Caimanes fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Las Vacas fundo 
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama, escuela
+Falta la clave 'datosHistoricos' en los datos para la estación El Ingenio fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Puchuncaví hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Batuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Aculeo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Farellones Ski club 
+Falta la clave 'datosHistoricos' en los datos para la estación Planta San Ramón
+Falta la clave 'datosHistoricos' en los datos para la estación Barahona
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Isabel de Querelema
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando club aéreo
+Falta la clave 'datosHistoricos' en los datos para la estación Piuchén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Cerrillos ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Puquios retén
+Falta la clave 'datosHistoricos' en los datos para la estación Putre tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Chungará retén
+Falta la clave 'datosHistoricos' en los datos para la estación Parinacota
+Falta la clave 'datosHistoricos' en los datos para la estación Pisagua tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pica
+Falta la clave 'datosHistoricos' en los datos para la estación Ascotán FFCC
+Falta la clave 'datosHistoricos' en los datos para la estación El Tuqui, Ovalle Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chañaral  Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación El Tatio
+Falta la clave 'datosHistoricos' en los datos para la estación La Huayca, Pozo Almonte
+Falta la clave 'datosHistoricos' en los datos para la estación Potrerillos
+Falta la clave 'datosHistoricos' en los datos para la estación Freirina tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Conay retén
+Falta la clave 'datosHistoricos' en los datos para la estación San felix retén
+Falta la clave 'datosHistoricos' en los datos para la estación Huanta retén
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles de Bocatoma
+Falta la clave 'datosHistoricos' en los datos para la estación Embalse la Paloma
+Falta la clave 'datosHistoricos' en los datos para la estación Los Peñones Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Carén
+Falta la clave 'datosHistoricos' en los datos para la estación San Lorenzo retén (Chañaral Alto)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molles hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Monte Patria subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pichasca
+Falta la clave 'datosHistoricos' en los datos para la estación Vicuña comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Paihuano Pisco Elqui
+Falta la clave 'datosHistoricos' en los datos para la estación Salamanca C.C.T.
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Las Palmas de Mincha, fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen  de Totoralillo
+Falta la clave 'datosHistoricos' en los datos para la estación Quilimarí
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Los Molinos  Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación Papudo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada de Silva retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe ejército
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe particular
+Falta la clave 'datosHistoricos' en los datos para la estación San Felipe D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Quintero, Estación Aeronáutica
+Falta la clave 'datosHistoricos' en los datos para la estación Los Andes  comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Llay Llay  Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Calle Larga tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Rinconada retén
+Falta la clave 'datosHistoricos' en los datos para la estación Saladillo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Radio Faro El Tabón
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo  San Felipe ( Tocornal )
+Falta la clave 'datosHistoricos' en los datos para la estación Zapallar retén
+Falta la clave 'datosHistoricos' en los datos para la estación Cuesta Chacabuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Petorca
+Falta la clave 'datosHistoricos' en los datos para la estación Cabildo
+Falta la clave 'datosHistoricos' en los datos para la estación La Petorquina
+Falta la clave 'datosHistoricos' en los datos para la estación Central Maitenes retén
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Aguirre
+Falta la clave 'datosHistoricos' en los datos para la estación Curacaví tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Huinganal fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Dorado
+Falta la clave 'datosHistoricos' en los datos para la estación Los Rulos  fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Valle Hermoso fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peldehue regimiento
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Curahumilla
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Alemana
+Falta la clave 'datosHistoricos' en los datos para la estación La Ligua
+Falta la clave 'datosHistoricos' en los datos para la estación Valdivia, Radio Est. FACH.
+Falta la clave 'datosHistoricos' en los datos para la estación Central Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca Esval
+Falta la clave 'datosHistoricos' en los datos para la estación Limache Esval
+Falta la clave 'datosHistoricos' en los datos para la estación San Gabriel retén
+Falta la clave 'datosHistoricos' en los datos para la estación Las Majadas fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Huallilemu fundo
+Falta la clave 'datosHistoricos' en los datos para la estación La Obra del Maipo
+Falta la clave 'datosHistoricos' en los datos para la estación Quebrada del Lunes
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Paulina
+Falta la clave 'datosHistoricos' en los datos para la estación Llo-Lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Valdes
+Falta la clave 'datosHistoricos' en los datos para la estación Los Almendros, La Florida
+Falta la clave 'datosHistoricos' en los datos para la estación Villa el Alba
+Falta la clave 'datosHistoricos' en los datos para la estación Ancud Pupelde Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Chamiza Puerto Montt Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Peñaflor subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación San Bernardo (Sr. Caviedes)
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia de Paine
+Falta la clave 'datosHistoricos' en los datos para la estación San Juan de Llo-lleo
+Falta la clave 'datosHistoricos' en los datos para la estación Chada hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Longovilo hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Paine
+Falta la clave 'datosHistoricos' en los datos para la estación Guayacán
+Falta la clave 'datosHistoricos' en los datos para la estación Casablanca (Fundo Nuevo Mundo)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Cachapoal
+Falta la clave 'datosHistoricos' en los datos para la estación Central Pangal (Casa de Fuerza)
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma Pangal
+Falta la clave 'datosHistoricos' en los datos para la estación La Estrella retén
+Falta la clave 'datosHistoricos' en los datos para la estación Coya
+Falta la clave 'datosHistoricos' en los datos para la estación Nido de Aguilas
+Falta la clave 'datosHistoricos' en los datos para la estación Los Robles
+Falta la clave 'datosHistoricos' en los datos para la estación Totihue
+Falta la clave 'datosHistoricos' en los datos para la estación Morro Chico retén
+Falta la clave 'datosHistoricos' en los datos para la estación Río Verde escuela G-33
+Falta la clave 'datosHistoricos' en los datos para la estación Coyhaique escuela agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Huano
+Falta la clave 'datosHistoricos' en los datos para la estación Puaucho
+Falta la clave 'datosHistoricos' en los datos para la estación Laguna San Rafael
+Falta la clave 'datosHistoricos' en los datos para la estación Hueyusca
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Marina de Putagán
+Falta la clave 'datosHistoricos' en los datos para la estación Comaco - Curacautín
+Falta la clave 'datosHistoricos' en los datos para la estación Traiguén - Regimiento Miraflores
+Falta la clave 'datosHistoricos' en los datos para la estación Cunco Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Capitán Pastene tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Hijuela Tres Pueblas
+Falta la clave 'datosHistoricos' en los datos para la estación Curanilahue
+Falta la clave 'datosHistoricos' en los datos para la estación El Torreón
+Falta la clave 'datosHistoricos' en los datos para la estación San Cristobal fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Instituto Profesional Adventista  Chillán
+Falta la clave 'datosHistoricos' en los datos para la estación Hualqui Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Los Queñes Retén
+Falta la clave 'datosHistoricos' en los datos para la estación Perquilauquen
+Falta la clave 'datosHistoricos' en los datos para la estación Huequén Angol
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen de Chanco
+Falta la clave 'datosHistoricos' en los datos para la estación San Vicente de Tagua Tagua
+Falta la clave 'datosHistoricos' en los datos para la estación Hualañe Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos I.N.I.A.
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Rosa de Cato
+Falta la clave 'datosHistoricos' en los datos para la estación Central Alfalfal
+Falta la clave 'datosHistoricos' en los datos para la estación Teno Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Chimbarongo subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Placilla
+Falta la clave 'datosHistoricos' en los datos para la estación San Miguel de Querelema
+Falta la clave 'datosHistoricos' en los datos para la estación Idahue fundo
+Falta la clave 'datosHistoricos' en los datos para la estación El Romeral Essam
+Falta la clave 'datosHistoricos' en los datos para la estación Chanqueahue
+Falta la clave 'datosHistoricos' en los datos para la estación Los Lingues
+Falta la clave 'datosHistoricos' en los datos para la estación Río Cipreses
+Falta la clave 'datosHistoricos' en los datos para la estación Yaquil
+Falta la clave 'datosHistoricos' en los datos para la estación El Romero
+Falta la clave 'datosHistoricos' en los datos para la estación Lolol
+Falta la clave 'datosHistoricos' en los datos para la estación Colón
+Falta la clave 'datosHistoricos' en los datos para la estación Huaquén
+Falta la clave 'datosHistoricos' en los datos para la estación Curepto
+Falta la clave 'datosHistoricos' en los datos para la estación Rari
+Falta la clave 'datosHistoricos' en los datos para la estación San Agustín de Aurora
+Falta la clave 'datosHistoricos' en los datos para la estación Pelarco
+Falta la clave 'datosHistoricos' en los datos para la estación Constitución (Quivolgo)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Petriles de Yacal
+Falta la clave 'datosHistoricos' en los datos para la estación Linares Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Achibueno retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chanco Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Nirivilo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Bellavista, Universidad de Concepción
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro
+Falta la clave 'datosHistoricos' en los datos para la estación Dunas de Chanco (Pahuil)
+Falta la clave 'datosHistoricos' en los datos para la estación Botacura
+Falta la clave 'datosHistoricos' en los datos para la estación San Gregorio tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Ñiquén retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Nicolás retén
+Falta la clave 'datosHistoricos' en los datos para la estación Linares F.A.C.H.
+Falta la clave 'datosHistoricos' en los datos para la estación Talca regimiento
+Falta la clave 'datosHistoricos' en los datos para la estación Panimávida
+Falta la clave 'datosHistoricos' en los datos para la estación Pemuco tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Bulnes Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación San Fabián de alico subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación San Carlos Sendos 
+Falta la clave 'datosHistoricos' en los datos para la estación Parral Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Victoria (EAP)
+Falta la clave 'datosHistoricos' en los datos para la estación Victoria Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Quitratue retén
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Teja  (Universidad Austral Valdivia)
+Falta la clave 'datosHistoricos' en los datos para la estación Mehuín
+Falta la clave 'datosHistoricos' en los datos para la estación Punahue
+Falta la clave 'datosHistoricos' en los datos para la estación Chan Chan
+Falta la clave 'datosHistoricos' en los datos para la estación Loncoche comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Villarrica Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Saavedra tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Padre las Casas
+Falta la clave 'datosHistoricos' en los datos para la estación Vilcún tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación San Patricio  (Retén Cherchenco)
+Falta la clave 'datosHistoricos' en los datos para la estación Lautaro Sendos 
+Falta la clave 'datosHistoricos' en los datos para la estación Selva Oscura retén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Notros, parcela 10
+Falta la clave 'datosHistoricos' en los datos para la estación Cañete comisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo los Sauces 
+Falta la clave 'datosHistoricos' en los datos para la estación Tucapel retén
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Las Colmenas (Ex La Palma hacienda)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Quilales fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Castro Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Aguirre
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Ramirez
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Varas
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Guarello
+Falta la clave 'datosHistoricos' en los datos para la estación La Ensenada
+Falta la clave 'datosHistoricos' en los datos para la estación La Unión Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Lago Ranco
+Falta la clave 'datosHistoricos' en los datos para la estación Quillaico
+Falta la clave 'datosHistoricos' en los datos para la estación Osorno Ovejería
+Falta la clave 'datosHistoricos' en los datos para la estación Futrono
+Falta la clave 'datosHistoricos' en los datos para la estación Pucón
+Falta la clave 'datosHistoricos' en los datos para la estación Villa Industrial retén
+Falta la clave 'datosHistoricos' en los datos para la estación Segundo Corral Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Monseñor Fagnano Puerto Natales
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Dawson
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Edén
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle Oficina Meteorológica (Liceo)
+Falta la clave 'datosHistoricos' en los datos para la estación El Buitre Arica Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Rancagua, Radioestación F.A.CH.
+Falta la clave 'datosHistoricos' en los datos para la estación El Bosque Base Aérea
+Falta la clave 'datosHistoricos' en los datos para la estación El Belloto Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Montemar
+Falta la clave 'datosHistoricos' en los datos para la estación Ancud Pudeto
+Falta la clave 'datosHistoricos' en los datos para la estación Illapel Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Pampa Uribe Comunidad GEN
+Falta la clave 'datosHistoricos' en los datos para la estación Salamanca Subcomisaría
+Falta la clave 'datosHistoricos' en los datos para la estación Bocatoma los Maitenes
+Falta la clave 'datosHistoricos' en los datos para la estación Graneros Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Parrón
+Falta la clave 'datosHistoricos' en los datos para la estación Angol Los Estanques
+Falta la clave 'datosHistoricos' en los datos para la estación El Huachi
+Falta la clave 'datosHistoricos' en los datos para la estación Colonia San Gerardo
+Falta la clave 'datosHistoricos' en los datos para la estación Sewell
+Falta la clave 'datosHistoricos' en los datos para la estación Temuco Universidad Católica
+Falta la clave 'datosHistoricos' en los datos para la estación Parral Copihue
+Falta la clave 'datosHistoricos' en los datos para la estación Paillaco
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad de Talca
+Falta la clave 'datosHistoricos' en los datos para la estación Puente Negro retén
+Falta la clave 'datosHistoricos' en los datos para la estación Melipilla
+Falta la clave 'datosHistoricos' en los datos para la estación Chaca
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Velero
+Falta la clave 'datosHistoricos' en los datos para la estación San Esteban retén
+Falta la clave 'datosHistoricos' en los datos para la estación Cristo Redentor
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Calán
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Rincón del Abra fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Codegua fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Rancagua fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Vicuña D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Fray Jorge
+Falta la clave 'datosHistoricos' en los datos para la estación Incahuasi retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Carmen fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Palmilla fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peralillo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Quilaco
+Falta la clave 'datosHistoricos' en los datos para la estación Los Ángeles Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad Católica
+Falta la clave 'datosHistoricos' en los datos para la estación Purén los estanques
+Falta la clave 'datosHistoricos' en los datos para la estación Faro Tres Cruces
+Falta la clave 'datosHistoricos' en los datos para la estación San Gregorio
+Falta la clave 'datosHistoricos' en los datos para la estación Chaitén Yelcho
+Falta la clave 'datosHistoricos' en los datos para la estación Retiro Bureo
+Falta la clave 'datosHistoricos' en los datos para la estación Santa Juana Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Alcones fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Chimbarongo fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San javier fundo
+Falta la clave 'datosHistoricos' en los datos para la estación San Clemente fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Porvenir fundo
+Falta la clave 'datosHistoricos' en los datos para la estación La Serena - Oficina Meteorológica
+Falta la clave 'datosHistoricos' en los datos para la estación Hualpencillo
+Falta la clave 'datosHistoricos' en los datos para la estación NOS  Aguas Andinas
+Falta la clave 'datosHistoricos' en los datos para la estación Arrayán Aguas Andinas
+Falta la clave 'datosHistoricos' en los datos para la estación Las Vizcachas Aguas Andinas
+Falta la clave 'datosHistoricos' en los datos para la estación Rio Las Minas
+Falta la clave 'datosHistoricos' en los datos para la estación Socompa retén
+Falta la clave 'datosHistoricos' en los datos para la estación Pan de Azúcar
+Falta la clave 'datosHistoricos' en los datos para la estación Colina Base Aérea
+Falta la clave 'datosHistoricos' en los datos para la estación Arica (Universidad de Tarapacá - Radiación UV) 
+Falta la clave 'datosHistoricos' en los datos para la estación María Elena (Soquimich - Radiación - UV)
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama (Universidad Católica del Norte - Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Valle Nevado ( Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Talca Universidad Autónoma de Chile - Radiación UV.
+Falta la clave 'datosHistoricos' en los datos para la estación Temuco  (Universidad Católica de Temuco - Radiación UV.)
+Falta la clave 'datosHistoricos' en los datos para la estación Valdivia (Centro de Estudios Científicos - Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad Austral Valdivia - Radiación UV.
+Falta la clave 'datosHistoricos' en los datos para la estación Valparaíso (Gob. Marítima - Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos D.O.S
+Falta la clave 'datosHistoricos' en los datos para la estación El Loa - Chuquicamata CODELCO
+Falta la clave 'datosHistoricos' en los datos para la estación Sierra Gorda retén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos particular
+Falta la clave 'datosHistoricos' en los datos para la estación Río Cisnes
+Falta la clave 'datosHistoricos' en los datos para la estación Carén CODELCO
+Falta la clave 'datosHistoricos' en los datos para la estación Molina escuela agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación San Luis de Talca
+Falta la clave 'datosHistoricos' en los datos para la estación Dimilhue fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Contulmo Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Llanquihue Escuela Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Laguna Blanca
+Falta la clave 'datosHistoricos' en los datos para la estación Sección Searle
+Falta la clave 'datosHistoricos' en los datos para la estación Belén retén
+Falta la clave 'datosHistoricos' en los datos para la estación Pedehua retén
+Falta la clave 'datosHistoricos' en los datos para la estación Hierro Viejo
+Falta la clave 'datosHistoricos' en los datos para la estación Tocopilla
+Falta la clave 'datosHistoricos' en los datos para la estación Huara tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación La Silla
+Falta la clave 'datosHistoricos' en los datos para la estación La Canela DGA
+Falta la clave 'datosHistoricos' en los datos para la estación San Lorenzo, retén
+Falta la clave 'datosHistoricos' en los datos para la estación Putaendo
+Falta la clave 'datosHistoricos' en los datos para la estación Quebrada de la Plata
+Falta la clave 'datosHistoricos' en los datos para la estación Carmen Alto
+Falta la clave 'datosHistoricos' en los datos para la estación Chabunco Punta Arenas Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Huelquen La Vega fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Las Melosas
+Falta la clave 'datosHistoricos' en los datos para la estación Los Morros retén
+Falta la clave 'datosHistoricos' en los datos para la estación San Gerónimo
+Falta la clave 'datosHistoricos' en los datos para la estación Chépica SENDOS
+Falta la clave 'datosHistoricos' en los datos para la estación Chacayes BRADEN
+Falta la clave 'datosHistoricos' en los datos para la estación Don Bosco Linares Escuela  Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Campamento Cuatro
+Falta la clave 'datosHistoricos' en los datos para la estación Bellavista Tomé
+Falta la clave 'datosHistoricos' en los datos para la estación Talcahuano (D.O.C.A.)
+Falta la clave 'datosHistoricos' en los datos para la estación Coelemu SENDOS
+Falta la clave 'datosHistoricos' en los datos para la estación Fundo Santa Adela (Los Laureles)
+Falta la clave 'datosHistoricos' en los datos para la estación Vista Alegre
+Falta la clave 'datosHistoricos' en los datos para la estación Los Confines club aéreo
+Falta la clave 'datosHistoricos' en los datos para la estación Lota Estanques
+Falta la clave 'datosHistoricos' en los datos para la estación San Juán de La Costa
+Falta la clave 'datosHistoricos' en los datos para la estación Ralún
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Millantué
+Falta la clave 'datosHistoricos' en los datos para la estación Río Bueno D.O.S.
+Falta la clave 'datosHistoricos' en los datos para la estación Pueblo Hundido retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Tofo tenencia
+Falta la clave 'datosHistoricos' en los datos para la estación Antuco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Catalina retén
+Falta la clave 'datosHistoricos' en los datos para la estación Manquehua retén
+Falta la clave 'datosHistoricos' en los datos para la estación El Porvenir fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Litu fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Misión de Rahue
+Falta la clave 'datosHistoricos' en los datos para la estación El Mirador fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Pedro de Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Los Arrayanes
+Falta la clave 'datosHistoricos' en los datos para la estación Chusmiza
+Falta la clave 'datosHistoricos' en los datos para la estación Caldera
+Falta la clave 'datosHistoricos' en los datos para la estación La Serena  Almirante Latorre 
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle  Samo Alto retén
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle, Huallillinga (ex Altar Alto)
+Falta la clave 'datosHistoricos' en los datos para la estación Ovalle, Valdivia hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación Vallenar Campex
+Falta la clave 'datosHistoricos' en los datos para la estación Combarbalá, San Marcos retén
+Falta la clave 'datosHistoricos' en los datos para la estación Monte Patria, el Palqui retén
+Falta la clave 'datosHistoricos' en los datos para la estación Punitaqui retén
+Falta la clave 'datosHistoricos' en los datos para la estación Tongoy hacienda
+Falta la clave 'datosHistoricos' en los datos para la estación La Serena Campex
+Falta la clave 'datosHistoricos' en los datos para la estación Maitencillo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Chillán Quinchamalí
+Falta la clave 'datosHistoricos' en los datos para la estación Batuco fundo, Yumbel
+Falta la clave 'datosHistoricos' en los datos para la estación Curacautín,  retén el Troyo
+Falta la clave 'datosHistoricos' en los datos para la estación Pichidangui, Los Condores fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Paredones Vivero
+Falta la clave 'datosHistoricos' en los datos para la estación Santiago, Cerro San Cristobal
+Falta la clave 'datosHistoricos' en los datos para la estación Sierra Gorda, Baquedano
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Arenas, Universidad de Magallanes (Radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Curanilahue, La Colcha fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Hueyusca, Osorno
+Falta la clave 'datosHistoricos' en los datos para la estación Contulmo
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Octay
+Falta la clave 'datosHistoricos' en los datos para la estación Angol escuela
+Falta la clave 'datosHistoricos' en los datos para la estación Ollagüe 
+Falta la clave 'datosHistoricos' en los datos para la estación San Pedro de Atacama II (Universidad Católica del Norte - radiación UV)
+Falta la clave 'datosHistoricos' en los datos para la estación Pumire, Colchane
+Falta la clave 'datosHistoricos' en los datos para la estación Coyacagua, Pica
+Falta la clave 'datosHistoricos' en los datos para la estación Corral de Julio, Ovalle
+Falta la clave 'datosHistoricos' en los datos para la estación Los Vilos climatológica
+Falta la clave 'datosHistoricos' en los datos para la estación Pangal Endesa, Machalí
+Falta la clave 'datosHistoricos' en los datos para la estación Río Caracarani en Humapalca
+Falta la clave 'datosHistoricos' en los datos para la estación Digullín embalse,  Chillán
+Falta la clave 'datosHistoricos' en los datos para la estación San Fernando de Mingue
+Falta la clave 'datosHistoricos' en los datos para la estación La Vega (Petorca)
+Falta la clave 'datosHistoricos' en los datos para la estación El Tambo retén
+Falta la clave 'datosHistoricos' en los datos para la estación Llafenco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Huentelauquén, Los Vilos
+Falta la clave 'datosHistoricos' en los datos para la estación Mincha retén, Illapel
+Falta la clave 'datosHistoricos' en los datos para la estación Chincolco retén
+Falta la clave 'datosHistoricos' en los datos para la estación Los Cóndores retén, Pichidangui
+Falta la clave 'datosHistoricos' en los datos para la estación Lo Calvo retén, Los Andes
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Cristal, Chile Chico
+Falta la clave 'datosHistoricos' en los datos para la estación Coyhaique SAG
+Falta la clave 'datosHistoricos' en los datos para la estación Isla San Pedro D.M.C.
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Guido radioestación,  Torres del Paine
+Falta la clave 'datosHistoricos' en los datos para la estación Diaguitas retén,  Vicuña
+Falta la clave 'datosHistoricos' en los datos para la estación Coronel Sendos
+Falta la clave 'datosHistoricos' en los datos para la estación Nacimiento, Los Ángeles
+Falta la clave 'datosHistoricos' en los datos para la estación Coelemu retén
+Falta la clave 'datosHistoricos' en los datos para la estación Barro Blanco, Osorno
+Falta la clave 'datosHistoricos' en los datos para la estación San Enrique de Bucalemu
+Falta la clave 'datosHistoricos' en los datos para la estación El Olivar  U.F. Santa María
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad Federico Santa María
+Falta la clave 'datosHistoricos' en los datos para la estación Indus Quintay fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Pampa Guanaco, Tierra del Fuego 
+Falta la clave 'datosHistoricos' en los datos para la estación Puerto Consuelo
+Falta la clave 'datosHistoricos' en los datos para la estación Quitaluto Univ. Austral, Valdivia
+Falta la clave 'datosHistoricos' en los datos para la estación Talcahuano radioestación
+Falta la clave 'datosHistoricos' en los datos para la estación Traiguén Oficina Meteorológica
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Navarino, Tierra del Fuego
+Falta la clave 'datosHistoricos' en los datos para la estación Mirador Marchant, Coyhaique
+Falta la clave 'datosHistoricos' en los datos para la estación Caldera R.B.
+Falta la clave 'datosHistoricos' en los datos para la estación Angol, Húsares
+Falta la clave 'datosHistoricos' en los datos para la estación Victoria (Reg.)
+Falta la clave 'datosHistoricos' en los datos para la estación Aeródromo de la Independencia
+Falta la clave 'datosHistoricos' en los datos para la estación Calleuque fundo
+Falta la clave 'datosHistoricos' en los datos para la estación Peldehue Ad.
+Falta la clave 'datosHistoricos' en los datos para la estación Antofagasta, Oficina Meteorológica
+Falta la clave 'datosHistoricos' en los datos para la estación Tenencia Puchuncaví
+Falta la clave 'datosHistoricos' en los datos para la estación El Teniente
+Falta la clave 'datosHistoricos' en los datos para la estación El Vergel Angol
+Falta la clave 'datosHistoricos' en los datos para la estación Punta Galera faro
+Falta la clave 'datosHistoricos' en los datos para la estación Gutamanga Chacao
+Falta la clave 'datosHistoricos' en los datos para la estación Maullín
+Falta la clave 'datosHistoricos' en los datos para la estación Isla Apiao
+Falta la clave 'datosHistoricos' en los datos para la estación Bahia catalina Punta Arenas
+Falta la clave 'datosHistoricos' en los datos para la estación Bajo Palena
+Falta la clave 'datosHistoricos' en los datos para la estación Contulmo Of. Met.
+Falta la clave 'datosHistoricos' en los datos para la estación Escuela de Artillería Linares
+Falta la clave 'datosHistoricos' en los datos para la estación Universidad de la Frontera Temuco
+Falta la clave 'datosHistoricos' en los datos para la estación Llanos de Caleu - La Dormida
+Falta la clave 'datosHistoricos' en los datos para la estación Pucón Aeródromo
+Falta la clave 'datosHistoricos' en los datos para la estación La Unión, Agrotec
+Falta la clave 'datosHistoricos' en los datos para la estación Arica estación Nueva
+Falta la clave 'datosHistoricos' en los datos para la estación Purranque
+Falta la clave 'datosHistoricos' en los datos para la estación Cerro Cayumanque
+Falta la clave 'datosHistoricos' en los datos para la estación Chorrillos, Calama
+Falta la clave 'datosHistoricos' en los datos para la estación La Colcha, Arauco
+Falta la clave 'datosHistoricos' en los datos para la estación Parque Carén, Municipalidad de Pudahuel
+Falta la clave 'datosHistoricos' en los datos para la estación San Esteban, Liceo
+Falta la clave 'datosHistoricos' en los datos para la estación Quillota, Liceo Agrícola
+Falta la clave 'datosHistoricos' en los datos para la estación Copiapo, Cerro Antenas

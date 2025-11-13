@@ -1,0 +1,24 @@
+{
+    "pais": "Chile",
+    "organismo": "Direcci\u00f3n Meteorl\u00f3gica de Chile",
+    "fechaCreacion": "16-06-2025 17:10",
+    "timezone": "UTC",
+    "producto": "Agua hist\u00f3rica diaria 30 a\u00f1os recientes.",
+    "datosEstacion": {
+        "codigoNacional": 270001,
+        "codigoOMM": "85469",
+        "codigoOACI": "SCIP",
+        "nombreEstacion": "Mataveri  Isla de Pascua Ap.",
+        "latitud": "-27.15889",
+        "longitud": "-109.43250",
+        "altura": 69,
+        "region": 5,
+        "nombreRegion": "Valpara\u00c3\u00adso",
+        "hayDatos": false,
+        "anoDesde": null,
+        "anoHasta": null
+    },
+    "datosHistoricos": {
+        "diaria": null
+    }
+}

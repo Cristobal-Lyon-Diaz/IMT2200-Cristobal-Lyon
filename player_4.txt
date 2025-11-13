@@ -1,0 +1,45 @@
+Nombre: Rafael Nadal
+Nacionalidad: ESP
+Fecha de Nacimiento: 1986/06/03
+Inicio de Carrera: 2001
+Altura: 185.0
+Peso: 85.0
+Mano Hábil: Left-Handed
+==========================================================================================
+
+Nombre: Andre Agassi
+Nacionalidad: USA
+Fecha de Nacimiento: 1970/04/29
+Inicio de Carrera: 1986
+Altura: 180.0
+Peso: 80.0
+Mano Hábil: Right-Handed
+==========================================================================================
+
+Nombre: Lleyton Hewitt
+Nacionalidad: AUS
+Fecha de Nacimiento: 1981/02/24
+Inicio de Carrera: 1998
+Altura: 178.0
+Peso: 77.0
+Mano Hábil: Right-Handed
+==========================================================================================
+
+Nombre: Stefan Edberg
+Nacionalidad: SWE
+Fecha de Nacimiento: 1966/01/19
+Inicio de Carrera: 1983
+Altura: 188.0
+Peso: 77.0
+Mano Hábil: nan
+==========================================================================================
+
+Nombre: Roger Federer
+Nacionalidad: SUI
+Fecha de Nacimiento: 1981/08/08
+Inicio de Carrera: 1998
+Altura: 185.0
+Peso: 85.0
+Mano Hábil: Right-Handed
+==========================================================================================
+
